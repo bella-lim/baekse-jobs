@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-22",
- "count": 876,
+ "updated_at": "2026-10-23",
+ "count": 881,
  "jobs": [
   {
    "title": "우리동네어린이놀이터안전지킴이",
@@ -2640,13 +2640,27 @@
    "region_sido": "대구광역시",
    "region_sigungu": "달성군",
    "type": "기타",
+   "start_date": "2026-08-31",
+   "end_date": "2026-12-31",
+   "salary": "",
+   "phone": "",
+   "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-104749&projType=E&instnId=0528087",
+   "source": "노인일자리여기",
+   "id": "senior-00189"
+  },
+  {
+   "title": "60세이상인 자를 대상으로 일자리를 제공하고 이를 통해 일자리 창출이 이루어지도록 정부가 시니어인턴 채용기업에 인건비를 지원 시니어인턴 시행 이후 계속고용을 유도",
+   "org": "평생일자리지원센터",
+   "region_sido": "대구광역시",
+   "region_sigungu": "달성군",
+   "type": "기타",
    "start_date": "2026-01-01",
    "end_date": "2026-12-31",
    "salary": "",
    "phone": "",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-061572&projType=E&instnId=0528087",
    "source": "노인일자리여기",
-   "id": "senior-00189"
+   "id": "senior-00190"
   },
   {
    "title": "마음모아일터",
@@ -2660,7 +2674,7 @@
    "phone": "조승현 053-959-2277",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-007662&projType=B&instnId=0001875",
    "source": "노인일자리여기",
-   "id": "senior-00190"
+   "id": "senior-00191"
   },
   {
    "title": "택시 시니어인턴(3개월) 채용 후 계속고용 예정",
@@ -2674,7 +2688,7 @@
    "phone": "이수민 010-6775-2004",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-090804&projType=E&instnId=0258084",
    "source": "노인일자리여기",
-   "id": "senior-00191"
+   "id": "senior-00192"
   },
   {
    "title": "행복나눔한마음일터",
@@ -2688,7 +2702,7 @@
    "phone": "조승현 053-959-2277",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-007623&projType=B&instnId=0001875",
    "source": "노인일자리여기",
-   "id": "senior-00192"
+   "id": "senior-00193"
   },
   {
    "title": "60세이상인 자를 대상으로 일자리를 제공하고 이를 통해 일자리 창출이 이루어지도록 정부가 시니어인턴 채용기업에 인건비를 지원 시니어인턴 시행 이후 계속고용을 유도",
@@ -2702,7 +2716,7 @@
    "phone": "",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-062081&projType=E&instnId=0528087",
    "source": "노인일자리여기",
-   "id": "senior-00193"
+   "id": "senior-00194"
   },
   {
    "title": "60세이상인 자를 대상으로 일자리를 제공하고 이를 통해 일자리 창출이 이루어지도록 정부가 시니어인턴 채용기업에 인건비를 지원 시니어인턴 시행 이후 계속고용을 유도",
@@ -2716,7 +2730,7 @@
    "phone": "",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-063027&projType=E&instnId=0528087",
    "source": "노인일자리여기",
-   "id": "senior-00194"
+   "id": "senior-00195"
   },
   {
    "title": "60세이상 근로자 적합직종으로 상용직 신규 채용 교육이수 후 인턴기간 이후 계속고용 계획",
@@ -2730,7 +2744,7 @@
    "phone": "이선미 053-427-4500",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-038025&projType=E&instnId=1039111",
    "source": "노인일자리여기",
-   "id": "senior-00195"
+   "id": "senior-00196"
   },
   {
    "title": "60세이상인 자를 대상으로 일자리를 제공하고 이를 통해 일자리 창출이 이루어지도록 정부가 시니어인턴 채용기업에 인건비를 지원 시니어인턴 시행 이후 계속고용을 유도",
@@ -2744,7 +2758,7 @@
    "phone": "",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-063227&projType=E&instnId=0528087",
    "source": "노인일자리여기",
-   "id": "senior-00196"
+   "id": "senior-00197"
   },
   {
    "title": "60세이상인 자를 대상으로 일자리를 제공하고 이를 통해 일자리 창출이 이루어지도록 정부가 시니어인턴 채용기업에 인건비를 지원 시니어인턴 시행 이후 계속고용을 유도",
@@ -2758,7 +2772,7 @@
    "phone": "",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-062077&projType=E&instnId=0528087",
    "source": "노인일자리여기",
-   "id": "senior-00197"
+   "id": "senior-00198"
   },
   {
    "title": "강관제조 출하 업무 인턴기간 3개월 고용 후, 계속 고용진행예정",
@@ -2772,7 +2786,7 @@
    "phone": "이상욱 053-719-0345",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-085749&projType=E&instnId=0384083",
    "source": "노인일자리여기",
-   "id": "senior-00198"
+   "id": "senior-00199"
   },
   {
    "title": "60세이상인 자를 대상으로 일자리를 제공하고 이를 통해 일자리 창출이 이루어지도록 정부가 시니어인턴 채용기업에 인건비를 지원 시니어인턴 시행 이후 계속고용을 유도",
@@ -2786,7 +2800,7 @@
    "phone": "",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-061938&projType=E&instnId=0528087",
    "source": "노인일자리여기",
-   "id": "senior-00199"
+   "id": "senior-00200"
   },
   {
    "title": "주간보호센터 운영에 필요한 조리원 인력배치 채용 이후 계속 고용 예정",
@@ -2800,7 +2814,7 @@
    "phone": "박귀려 053-422-1901",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-100164&projType=E&instnId=0000155",
    "source": "노인일자리여기",
-   "id": "senior-00200"
+   "id": "senior-00201"
   },
   {
    "title": "60세이상인 자를 대상으로 일자리를 제공하고 이를 통해 일자리 창출이 이루어지도록 정부가 시니어인턴 채용기업에 인건비를 지원 시니어인턴 시행 이후 계속고용을 유도",
@@ -2814,7 +2828,7 @@
    "phone": "",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-061891&projType=E&instnId=0528087",
    "source": "노인일자리여기",
-   "id": "senior-00201"
+   "id": "senior-00202"
   },
   {
    "title": "의료기기 관리(재고파악 및 기기관리) 인턴기간 3개월 후 계속고용 진행예정",
@@ -2828,7 +2842,7 @@
    "phone": "이상욱 053-719-0345",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-089667&projType=E&instnId=0384083",
    "source": "노인일자리여기",
-   "id": "senior-00202"
+   "id": "senior-00203"
   },
   {
    "title": "에어콤프레샤 조립 및 설치, 유지보수 인턴 기간 3개월 후 계속 고용 진행 예정",
@@ -2842,7 +2856,7 @@
    "phone": "신재동 053-716-0347",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-073152&projType=E&instnId=0384083",
    "source": "노인일자리여기",
-   "id": "senior-00203"
+   "id": "senior-00204"
   },
   {
    "title": "[사업 내용] - 업종: 음식 - 업태: 한식업 [운영계획](인턴십) - 인턴기간 3개월 운영 후 6개월 이상의 계속고용 유도 - 계속고용 전환 및 장기 고용자 유지 관리",
@@ -2856,7 +2870,7 @@
    "phone": "신재웅 042-484-2820",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-102317&projType=E&instnId=0398083",
    "source": "노인일자리여기",
-   "id": "senior-00204"
+   "id": "senior-00205"
   },
   {
    "title": "- 노인일자리 활성화 및 신규 일자리창출 - 어르신들이 경제 활동을 통한 우울증 감소 및 자신감 회복 - 소득 증대를 통한 경제력 확보 - 어르신들의 근무의욕 고취 인턴채용 후 계속 고용 예정",
@@ -2870,7 +2884,7 @@
    "phone": "최경미 042-331-2863",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-061725&projType=E&instnId=0004248",
    "source": "노인일자리여기",
-   "id": "senior-00205"
+   "id": "senior-00206"
   },
   {
    "title": "아파트택배",
@@ -2884,7 +2898,7 @@
    "phone": "손운표 042-471-5545",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-015199&projType=B&instnId=0000161",
    "source": "노인일자리여기",
-   "id": "senior-00206"
+   "id": "senior-00207"
   },
   {
    "title": "행복나눔베이크",
@@ -2898,7 +2912,7 @@
    "phone": "손운표 042-471-5545",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-008731&projType=B&instnId=0000161",
    "source": "노인일자리여기",
-   "id": "senior-00207"
+   "id": "senior-00208"
   },
   {
    "title": "쇼핑백제작",
@@ -2912,7 +2926,7 @@
    "phone": "김도예 042-471-5545",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-008246&projType=B&instnId=0000161",
    "source": "노인일자리여기",
-   "id": "senior-00208"
+   "id": "senior-00209"
   },
   {
    "title": "쌈지만드미",
@@ -2926,7 +2940,7 @@
    "phone": "김도예 042-471-5545",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-008190&projType=B&instnId=0000161",
    "source": "노인일자리여기",
-   "id": "senior-00209"
+   "id": "senior-00210"
   },
   {
    "title": "식품포장",
@@ -2940,7 +2954,7 @@
    "phone": "김도예 042-471-5545",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-008216&projType=B&instnId=0000161",
    "source": "노인일자리여기",
-   "id": "senior-00210"
+   "id": "senior-00211"
   },
   {
    "title": "택배분류",
@@ -2954,7 +2968,7 @@
    "phone": "손운표 042-471-5545",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-008254&projType=B&instnId=0000161",
    "source": "노인일자리여기",
-   "id": "senior-00211"
+   "id": "senior-00212"
   },
   {
    "title": "유성이합창단",
@@ -2968,7 +2982,7 @@
    "phone": "김순희 042-823-3915-6",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-014597&projType=A&instnId=0000996",
    "source": "노인일자리여기",
-   "id": "senior-00212"
+   "id": "senior-00213"
   },
   {
    "title": "유성이전통단",
@@ -2982,7 +2996,7 @@
    "phone": "김순희 042-823-3915-6",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-014592&projType=A&instnId=0000996",
    "source": "노인일자리여기",
-   "id": "senior-00213"
+   "id": "senior-00214"
   },
   {
    "title": "경로당관리지원",
@@ -2996,21 +3010,21 @@
    "phone": "이기애 042",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-015204&projType=A&instnId=0000757",
    "source": "노인일자리여기",
-   "id": "senior-00214"
+   "id": "senior-00215"
   },
   {
-   "title": "- 서비스업 ( 건축설계, 토목설계, 전기설계, 도시 설계 등) - 시니어인턴십 3개월 운영 후 신규고용 - 신규 참여자 오리엔테이션 교육 등 자체 실시",
-   "org": "시니어잡네트워크센터(민간)",
+   "title": "행복한 클린공원",
+   "org": "대한노인회 대전 유성구지회",
    "region_sido": "대전광역시",
    "region_sigungu": "유성구",
-   "type": "기타",
-   "start_date": "2026-01-12",
-   "end_date": "2026-10-30",
-   "salary": "",
-   "phone": "이선주(부장) 042-861-1104",
-   "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-032356&projType=E&instnId=0405084",
+   "type": "노인공익활동사업",
+   "start_date": "2025-12-08",
+   "end_date": "2026-11-30",
+   "salary": "290,000원",
+   "phone": "정광희 042-826-4610",
+   "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-015201&projType=A&instnId=0000757",
    "source": "노인일자리여기",
-   "id": "senior-00215"
+   "id": "senior-00216"
   },
   {
    "title": "유성이알림단",
@@ -3024,7 +3038,7 @@
    "phone": "김순희 042-823-3915-6",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-014585&projType=A&instnId=0000996",
    "source": "노인일자리여기",
-   "id": "senior-00216"
+   "id": "senior-00217"
   },
   {
    "title": "유성이행복단",
@@ -3037,20 +3051,6 @@
    "salary": "290,000원",
    "phone": "김순희 042-823-3915-6",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-014605&projType=A&instnId=0000996",
-   "source": "노인일자리여기",
-   "id": "senior-00217"
-  },
-  {
-   "title": "행복한 클린공원",
-   "org": "대한노인회 대전 유성구지회",
-   "region_sido": "대전광역시",
-   "region_sigungu": "유성구",
-   "type": "노인공익활동사업",
-   "start_date": "2025-12-08",
-   "end_date": "2026-11-30",
-   "salary": "290,000원",
-   "phone": "정광희 042-826-4610",
-   "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-015201&projType=A&instnId=0000757",
    "source": "노인일자리여기",
    "id": "senior-00218"
   },
@@ -7479,6 +7479,20 @@
    "id": "senior-00534"
   },
   {
+   "title": "소매업, 반찬류 제조 현장실습 훈련 인턴 3개월 운영 후 계속고용",
+   "org": "전국일자리협동조합",
+   "region_sido": "전라북도",
+   "region_sigungu": "전주시",
+   "type": "기타",
+   "start_date": "2026-05-27",
+   "end_date": "2026-12-31",
+   "salary": "",
+   "phone": "황세운 010-5100-5282",
+   "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-092618&projType=E&instnId=0543083",
+   "source": "노인일자리여기",
+   "id": "senior-00535"
+  },
+  {
    "title": "곡물도정 시니어인턴십 3개월 운영 후 신규고용",
    "org": "전주효자시니어클럽",
    "region_sido": "전라북도",
@@ -7490,7 +7504,7 @@
    "phone": "김인수 06-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-080912&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00535"
+   "id": "senior-00536"
   },
   {
    "title": "저온 저장고 및 냉동, 냉장 시공, 자재 관리 및 품질 보조 업무에 시니어 인턴을 채용해 고품질의 저장고 설치 완료와 숙련 인력으로 양성함 인턴십 기간(3개월)동안 1:1 멘토링을 실시하여 현장 적응 지원 및 계약 종료 후 정규직 전환 추진 예정",
@@ -7504,7 +7518,7 @@
    "phone": "김태수 010-5522-9919",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-102889&projType=E&instnId=0004006",
    "source": "노인일자리여기",
-   "id": "senior-00536"
+   "id": "senior-00537"
   },
   {
    "title": "노인복지 시니어인턴십 3개월 운영 후 신규고용",
@@ -7518,7 +7532,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-089683&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00537"
+   "id": "senior-00538"
   },
   {
    "title": "영유아 보육 시니어인턴십 3개월 운영 후 신규고용",
@@ -7532,7 +7546,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-088631&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00538"
+   "id": "senior-00539"
   },
   {
    "title": "60세 이상자의 취업지원을 위해 기업에 인건비를 지원하여 신규 및 계속고용을 유도하는 사업 시니어 인턴(3개월) 채용 후 계속 고용 예정(100%)",
@@ -7546,7 +7560,7 @@
    "phone": "송영희 063-274-3647",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-091234&projType=E&instnId=0004006",
    "source": "노인일자리여기",
-   "id": "senior-00539"
+   "id": "senior-00540"
   },
   {
    "title": "한식음식점 시니어인턴십 3개월 운영 후 신규고용",
@@ -7560,7 +7574,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-091726&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00540"
+   "id": "senior-00541"
   },
   {
    "title": "주간보호, 방문요양등 시니어인턴십 3개월 운영 후 신규고용",
@@ -7574,7 +7588,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-080441&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00541"
+   "id": "senior-00542"
   },
   {
    "title": "- 어르신돌봄 - 방문목욕 - 현장실습훈련 지원사업 3개월 후 신규고용",
@@ -7588,7 +7602,7 @@
    "phone": "김한수 010-4658-5867",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-069718&projType=E&instnId=0002426",
    "source": "노인일자리여기",
-   "id": "senior-00542"
+   "id": "senior-00543"
   },
   {
    "title": "- 노인의료 복지 - 현장실습훈련 지원 사업 3개월 운영 후 신규고용",
@@ -7602,7 +7616,7 @@
    "phone": "홍흥기 063-212-7179",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-080879&projType=E&instnId=0002426",
    "source": "노인일자리여기",
-   "id": "senior-00543"
+   "id": "senior-00544"
   },
   {
    "title": "현장 교육을 받아 업무 노하우 습득 보안용 카메라 조립 및 테스트",
@@ -7616,7 +7630,7 @@
    "phone": "김영애 063-213-9211",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-066061&projType=E&instnId=0004006",
    "source": "노인일자리여기",
-   "id": "senior-00544"
+   "id": "senior-00545"
   },
   {
    "title": "요식업소 및 관공서 직원식당 납품 계산원,농산물 포장",
@@ -7630,7 +7644,7 @@
    "phone": "하남주 063-245-0603",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-079725&projType=E&instnId=0004006",
    "source": "노인일자리여기",
-   "id": "senior-00545"
+   "id": "senior-00546"
   },
   {
    "title": "생산관리, 안전관리, 물품관리 신체건강하고 정신이 건강한 자를 교육시켜 사원으로 채용하고자 함",
@@ -7644,7 +7658,7 @@
    "phone": "김생기 063-210-2479",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-083064&projType=E&instnId=0004006",
    "source": "노인일자리여기",
-   "id": "senior-00546"
+   "id": "senior-00547"
   },
   {
    "title": "음식점업 시니어인턴십 3개월 운영 후 신규고용",
@@ -7658,7 +7672,7 @@
    "phone": "김형미 063-278-0202",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-060530&projType=E&instnId=0543083",
    "source": "노인일자리여기",
-   "id": "senior-00547"
+   "id": "senior-00548"
   },
   {
    "title": "- 어린이 돌봄 - 시니어인턴십 3개월 운영 후 신규고용",
@@ -7672,7 +7686,7 @@
    "phone": "이정 010-6772-2632",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-062790&projType=E&instnId=0002426",
    "source": "노인일자리여기",
-   "id": "senior-00548"
+   "id": "senior-00549"
   },
   {
    "title": "운수업 현장실습훈련 3개월 운영 후 계속 고용",
@@ -7686,7 +7700,7 @@
    "phone": "손진수 063-211-5111",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-065798&projType=E&instnId=0004006",
    "source": "노인일자리여기",
-   "id": "senior-00549"
+   "id": "senior-00550"
   },
   {
    "title": "한식조리업 인턴십 시행 이후 계속고용",
@@ -7700,7 +7714,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-067619&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00550"
+   "id": "senior-00551"
   },
   {
    "title": "음식점 시니어인턴십 3개월 운영 후 신규고용",
@@ -7714,7 +7728,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-087835&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00551"
+   "id": "senior-00552"
   },
   {
    "title": "보건업 시니어인턴십 3개월 운영 후 신규고용",
@@ -7728,7 +7742,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-084212&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00552"
+   "id": "senior-00553"
   },
   {
    "title": "주간보호 시니어인턴십 3개월 운영 후 신규고용",
@@ -7742,7 +7756,7 @@
    "phone": "김인수 06-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-086103&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00553"
+   "id": "senior-00554"
   },
   {
    "title": "노인복지/주간보호 인턴십 시행 이후 계속고용",
@@ -7756,7 +7770,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-051885&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00554"
+   "id": "senior-00555"
   },
   {
    "title": "슈퍼마켓 인턴십 시행 이후 계속고용",
@@ -7770,7 +7784,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-022283&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00555"
+   "id": "senior-00556"
   },
   {
    "title": "마트 내 채소 과일등 관리 및 소매 인턴십 시행 이후 계속고용 또는 신규고용 예정인원 1명 100% 계획",
@@ -7784,7 +7798,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-044251&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00556"
+   "id": "senior-00557"
   },
   {
    "title": "- 도소매업 - 현잘실습훈련 지워사업 3개월 후 신규고용",
@@ -7798,7 +7812,7 @@
    "phone": "박동표 063-253-6622",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-034159&projType=E&instnId=0002426",
    "source": "노인일자리여기",
-   "id": "senior-00557"
+   "id": "senior-00558"
   },
   {
    "title": "- 신문 및 정기간행물 - 현장실습훈련 지원사업 3개월 후 신규고용",
@@ -7811,20 +7825,6 @@
    "salary": "",
    "phone": "박한솔 063-228-9700",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-039278&projType=E&instnId=0002426",
-   "source": "노인일자리여기",
-   "id": "senior-00558"
-  },
-  {
-   "title": "음식/한식 인턴십 시행 이후 계속고용",
-   "org": "전주효자시니어클럽",
-   "region_sido": "전라북도",
-   "region_sigungu": "전주시",
-   "type": "기타",
-   "start_date": "2026-01-02",
-   "end_date": "2026-12-31",
-   "salary": "",
-   "phone": "김인수 063-236-8812",
-   "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-021733&projType=E&instnId=0001672",
    "source": "노인일자리여기",
    "id": "senior-00559"
   },
@@ -8235,6 +8235,20 @@
    "id": "senior-00588"
   },
   {
+   "title": "음식점업 시니어인턴십 3개월 운영 후 장기 채용 예정",
+   "org": "전국일자리협동조합",
+   "region_sido": "전라북도",
+   "region_sigungu": "전주시",
+   "type": "기타",
+   "start_date": "2026-10-20",
+   "end_date": "2026-12-31",
+   "salary": "",
+   "phone": "김태순 010-6301-4017",
+   "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-110924&projType=E&instnId=0543083",
+   "source": "노인일자리여기",
+   "id": "senior-00589"
+  },
+  {
    "title": "음식점업 시니어인턴십 3개월 운영 후 신규고용",
    "org": "전주효자시니어클럽",
    "region_sido": "전라북도",
@@ -8246,7 +8260,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-103404&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00589"
+   "id": "senior-00590"
   },
   {
    "title": "한식음식 시니어인턴십 3개월 운영 후 신규고용",
@@ -8260,7 +8274,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-077101&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00590"
+   "id": "senior-00591"
   },
   {
    "title": "- 골프연습장, 임대 - 현장실습훈련 지원사업 3개월 운영후 신규고용",
@@ -8274,7 +8288,7 @@
    "phone": "진경수 063-228-3500",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-067807&projType=E&instnId=0002426",
    "source": "노인일자리여기",
-   "id": "senior-00591"
+   "id": "senior-00592"
   },
   {
    "title": "노인복지 시니어인턴십 3개월 운영 후 신규고용",
@@ -8288,7 +8302,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-094411&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00592"
+   "id": "senior-00593"
   },
   {
    "title": "서비스제공 시니어인턴십 3개월 운영 후 신규고용",
@@ -8302,7 +8316,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-081867&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00593"
+   "id": "senior-00594"
   },
   {
    "title": "도소매, 주유소 관리용역 시니어인턴십 3개월 운영 후 신규고용",
@@ -8316,7 +8330,7 @@
    "phone": "김인수 06-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-086333&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00594"
+   "id": "senior-00595"
   },
   {
    "title": "-- 토석공사. 포장공사 - 현장실습 훈련 지원사업 3개월 운영 후 신규고용",
@@ -8330,7 +8344,7 @@
    "phone": "이성현 063-251-7101",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-085747&projType=E&instnId=0002426",
    "source": "노인일자리여기",
-   "id": "senior-00595"
+   "id": "senior-00596"
   },
   {
    "title": "요식업소 및 관공서 직원식당 납품 계산원, 농산물 포장",
@@ -8344,7 +8358,7 @@
    "phone": "하남주 063-245-0603",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-079794&projType=E&instnId=0004006",
    "source": "노인일자리여기",
-   "id": "senior-00596"
+   "id": "senior-00597"
   },
   {
    "title": "한방의료 시니어인턴십 3개월 운영 후 신규고용",
@@ -8358,7 +8372,7 @@
    "phone": "김인수 06-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-086097&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00597"
+   "id": "senior-00598"
   },
   {
    "title": "- 음식점업 - 현장실습 훈련 지원사업 3개월 운영 후 신규고용",
@@ -8372,7 +8386,7 @@
    "phone": "최진석 010-3679-9114",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-089876&projType=E&instnId=0002426",
    "source": "노인일자리여기",
-   "id": "senior-00598"
+   "id": "senior-00599"
   },
   {
    "title": "교육서비스 시니어인턴십 3개월 운영 후 신규고용",
@@ -8386,7 +8400,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-089896&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00599"
+   "id": "senior-00600"
   },
   {
    "title": "아동교육 시니어인턴십 3개월 운영 후 신규고용",
@@ -8400,7 +8414,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-091081&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00600"
+   "id": "senior-00601"
   },
   {
    "title": "아동교육서비스 시니어인턴십 3개월 운영 후 신규고용",
@@ -8414,7 +8428,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-091247&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00601"
+   "id": "senior-00602"
   },
   {
    "title": "어린이 교육서비스 인턴십 시행 이후 계속고용",
@@ -8428,7 +8442,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-071192&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00602"
+   "id": "senior-00603"
   },
   {
    "title": "시니어인턴십을 활용한 고령자 일자리창출 어린이 통학 버스 주 5일, 일 2.5시간",
@@ -8442,7 +8456,7 @@
    "phone": "조호성 063-288-0030",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-070180&projType=E&instnId=0004006",
    "source": "노인일자리여기",
-   "id": "senior-00603"
+   "id": "senior-00604"
   },
   {
    "title": "장례서비스 시니어인턴십 3개월 운영 후 신규고용",
@@ -8456,7 +8470,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-087823&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00604"
+   "id": "senior-00605"
   },
   {
    "title": "노인돌봄 시니어인턴십 3개월 운영 후 신규고용",
@@ -8470,7 +8484,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-090534&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00605"
+   "id": "senior-00606"
   },
   {
    "title": "건설업 석공사업 경미한공사 건설업 석공사업 견미한공사 담당자 및 컨설턴트:교육 및 현장모니터링",
@@ -8484,7 +8498,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-021756&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00606"
+   "id": "senior-00607"
   },
   {
    "title": "조형물, 모형물, 판촉물, 기념품 상패 제작 인턴종료 후 채용",
@@ -8498,7 +8512,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-051178&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00607"
+   "id": "senior-00608"
   },
   {
    "title": "조형물, 모형물, 판촉물, 기념품 상패 제작 인턴종료 후 채용",
@@ -8512,7 +8526,7 @@
    "phone": "김인수 063236",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-051195&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00608"
+   "id": "senior-00609"
   },
   {
    "title": "어린이 교육서비스 인턴십 시행 이후 계속고용",
@@ -8526,7 +8540,7 @@
    "phone": "김인수 063-236-8812",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-067620&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00609"
+   "id": "senior-00610"
   },
   {
    "title": "조립식 구조물, 판촉물 제작, 판매업 등 인턴종료 후 채용 시니어컨설턴트 현장 모니터링.",
@@ -8540,7 +8554,7 @@
    "phone": "김인수 063",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-051169&projType=E&instnId=0001672",
    "source": "노인일자리여기",
-   "id": "senior-00610"
+   "id": "senior-00611"
   },
   {
    "title": "음식점업 현장실습 훈련 시행 후 계속고용",
@@ -8554,7 +8568,7 @@
    "phone": "최명의 010-6683-2199",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-092329&projType=E&instnId=0543083",
    "source": "노인일자리여기",
-   "id": "senior-00611"
+   "id": "senior-00612"
   },
   {
    "title": "주간보호시설 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규채용",
@@ -8568,7 +8582,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-051007&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00612"
+   "id": "senior-00613"
   },
   {
    "title": "농어촌 버스 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8582,7 +8596,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-023986&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00613"
+   "id": "senior-00614"
   },
   {
    "title": "보육업 9개월이상 계속고용",
@@ -8596,7 +8610,7 @@
    "phone": "김홍지 062-959-5552",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2024-66580&projType=E&instnId=0033083",
    "source": "노인일자리여기",
-   "id": "senior-00614"
+   "id": "senior-00615"
   },
   {
    "title": "살기좋은 경로당 만들기",
@@ -8610,7 +8624,7 @@
    "phone": "김용만 010-8604-5310",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-012766&projType=A&instnId=0000481",
    "source": "노인일자리여기",
-   "id": "senior-00615"
+   "id": "senior-00616"
   },
   {
    "title": "스크린 파크골프 운영",
@@ -8624,7 +8638,7 @@
    "phone": "김경호 062-942-0002",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-006843&projType=C&instnId=0000481",
    "source": "노인일자리여기",
-   "id": "senior-00616"
+   "id": "senior-00617"
   },
   {
    "title": "일반택시 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8638,7 +8652,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-089686&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00617"
+   "id": "senior-00618"
   },
   {
    "title": "60세 이상 전력매니저(전기계량기 검침, 전기요금청구서 송달, 단전 등) 인력 채용 및 운영 60세 이상 발전원(도서발전소 운전 정비 등) 인력 채용 및 운영 근로기준법 및 기타 사규를 준용하여 운용 예정, 상황에 따라 계약 연장 고용 가능",
@@ -8652,7 +8666,7 @@
    "phone": "담당자2 044-905-7052",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-076135&projType=E&instnId=0004245",
    "source": "노인일자리여기",
-   "id": "senior-00618"
+   "id": "senior-00619"
   },
   {
    "title": "직무훈련 및 근무조건 개선으로 노인 인력에 대한 인식을 긍정적으로 변화시키고 일자리 제공 현장실습 훈련 지원사업(시니어인턴십) 종료 후 계속 고용율 100% 이상 유지하고, 향후 현장실습 훈련 지원사업(시니어인턴십) 활성화로 어르신 취업에 기여할 수 있도록 협력",
@@ -8666,7 +8680,7 @@
    "phone": "천혜순 061-287-6065",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-043368&projType=E&instnId=0002341",
    "source": "노인일자리여기",
-   "id": "senior-00619"
+   "id": "senior-00620"
   },
   {
    "title": "운전 및 중장비 전문 교육학원 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8680,7 +8694,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-025577&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00620"
+   "id": "senior-00621"
   },
   {
    "title": "노인주간보호센터 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8694,7 +8708,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-086693&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00621"
+   "id": "senior-00622"
   },
   {
    "title": "노인복지 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8708,7 +8722,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-086762&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00622"
+   "id": "senior-00623"
   },
   {
    "title": "택시운수업 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8722,7 +8736,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-025659&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00623"
+   "id": "senior-00624"
   },
   {
    "title": "택시 운수업 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8736,7 +8750,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-025743&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00624"
+   "id": "senior-00625"
   },
   {
    "title": "택시운수업 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8750,7 +8764,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-023937&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00625"
+   "id": "senior-00626"
   },
   {
    "title": "유아교육보육 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8764,7 +8778,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-025532&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00626"
+   "id": "senior-00627"
   },
   {
    "title": "노인복지 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8778,7 +8792,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-025515&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00627"
+   "id": "senior-00628"
   },
   {
    "title": "노인복지 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8792,7 +8806,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-025815&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00628"
+   "id": "senior-00629"
   },
   {
    "title": "노인복지 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8806,7 +8820,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-025910&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00629"
+   "id": "senior-00630"
   },
   {
    "title": "노인요양시설 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8820,7 +8834,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-025833&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00630"
+   "id": "senior-00631"
   },
   {
    "title": "노인복지시설 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8834,7 +8848,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-024105&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00631"
+   "id": "senior-00632"
   },
   {
    "title": "노인복지 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8848,7 +8862,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-025294&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00632"
+   "id": "senior-00633"
   },
   {
    "title": "노인복지 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8862,7 +8876,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-025470&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00633"
+   "id": "senior-00634"
   },
   {
    "title": "노인요양시설 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8876,7 +8890,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-025872&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00634"
+   "id": "senior-00635"
   },
   {
    "title": "단체급식 및 위탁급식 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8890,7 +8904,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-024083&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00635"
+   "id": "senior-00636"
   },
   {
    "title": "통근 및 관광버스 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8904,7 +8918,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-023965&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00636"
+   "id": "senior-00637"
   },
   {
    "title": "노인복지 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8918,7 +8932,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-024062&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00637"
+   "id": "senior-00638"
   },
   {
    "title": "노인복지 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8932,7 +8946,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-025434&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00638"
+   "id": "senior-00639"
   },
   {
    "title": "전세버스 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규채용",
@@ -8946,7 +8960,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-045249&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00639"
+   "id": "senior-00640"
   },
   {
    "title": "노인복지 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8960,7 +8974,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-097479&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00640"
+   "id": "senior-00641"
   },
   {
    "title": "노인복지 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8974,7 +8988,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-088386&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00641"
+   "id": "senior-00642"
   },
   {
    "title": "노인복지 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -8988,7 +9002,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-095895&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00642"
+   "id": "senior-00643"
   },
   {
    "title": "조경식재 시설물공사업 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -9002,7 +9016,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-025713&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00643"
+   "id": "senior-00644"
   },
   {
    "title": "여객자동차운수업 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -9016,7 +9030,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-024008&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00644"
+   "id": "senior-00645"
   },
   {
    "title": "액체펌프 제조업 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -9030,7 +9044,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-095072&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00645"
+   "id": "senior-00646"
   },
   {
    "title": "- 노인장기요양 - 현장실습훈련지원 3개월 운영 후 계속 고용",
@@ -9044,7 +9058,7 @@
    "phone": "김향미 061-684-6377",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-055620&projType=E&instnId=0000173",
    "source": "노인일자리여기",
-   "id": "senior-00646"
+   "id": "senior-00647"
   },
   {
    "title": "여객자동차운수업 현장실습훈련지원사업(시니어인턴십) 3개월 운영 후 신규고용",
@@ -9058,7 +9072,7 @@
    "phone": "박준희 061-804-9708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-024040&projType=E&instnId=0251084",
    "source": "노인일자리여기",
-   "id": "senior-00647"
+   "id": "senior-00648"
   },
   {
    "title": "제조업 3개월 인턴 후 계속 고용 예정",
@@ -9072,7 +9086,7 @@
    "phone": "김은옥 061-464-5551",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-090584&projType=E&instnId=0415083",
    "source": "노인일자리여기",
-   "id": "senior-00648"
+   "id": "senior-00649"
   },
   {
    "title": "상시근로자수:70명 주요업종:보건업 및 사회복지 서비스업 3개월 인턴기간 수료 후 계속고용 유도 예정",
@@ -9086,7 +9100,7 @@
    "phone": "김재현 070-4423-3535",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-058814&projType=E&instnId=0002528",
    "source": "노인일자리여기",
-   "id": "senior-00649"
+   "id": "senior-00650"
   },
   {
    "title": "상시근로자수:21명 주요업종:보건업 및 사회복지 서비스업 3개월 인턴기간 수료 후 계속고용 유도 예정",
@@ -9100,7 +9114,7 @@
    "phone": "김재현 070-4423-3535",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-058838&projType=E&instnId=0002528",
    "source": "노인일자리여기",
-   "id": "senior-00650"
+   "id": "senior-00651"
   },
   {
    "title": "토목건축공사, 산림종자 양묘, 주택건설 및 대지 조성사업, 주택 신축 판매, 조경공사, 산업설비공사, 소방공사, 포장공사 계속고용계획",
@@ -9114,7 +9128,7 @@
    "phone": "조주원 062-220-2515",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-089136&projType=E&instnId=0249084",
    "source": "노인일자리여기",
-   "id": "senior-00651"
+   "id": "senior-00652"
   },
   {
    "title": "면류, 떡류 외 유사 식품 가공, 제조(식품 가공 및 단순 생산 제조) 인턴 기간 3개월 후 본인 의사에 따라 계속 고용 진행 예정",
@@ -9128,7 +9142,7 @@
    "phone": "신재동 053-716-0347",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-081214&projType=E&instnId=0384083",
    "source": "노인일자리여기",
-   "id": "senior-00652"
+   "id": "senior-00653"
   },
   {
    "title": "제조 외 인턴기간 종료 후 계속 고용",
@@ -9142,7 +9156,7 @@
    "phone": "김정순 010-5260-8121",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-097564&projType=E&instnId=0529084",
    "source": "노인일자리여기",
-   "id": "senior-00653"
+   "id": "senior-00654"
   },
   {
    "title": "보육서비스업 운영에 필요한 운전기사 인력배치 채용 이후 계속 고용 예정",
@@ -9156,7 +9170,7 @@
    "phone": "박귀려 053-422-1901",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-028060&projType=E&instnId=0000155",
    "source": "노인일자리여기",
-   "id": "senior-00654"
+   "id": "senior-00655"
   },
   {
    "title": "방역복 제조 오리엔테이션 진행 예정",
@@ -9170,7 +9184,7 @@
    "phone": "박소정 054-433-2682",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-030788&projType=E&instnId=0004230",
    "source": "노인일자리여기",
-   "id": "senior-00655"
+   "id": "senior-00656"
   },
   {
    "title": "시니어클린",
@@ -9184,7 +9198,7 @@
    "phone": "임명환 054-432-2552",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-010279&projType=B&instnId=0001989",
    "source": "노인일자리여기",
-   "id": "senior-00656"
+   "id": "senior-00657"
   },
   {
    "title": "학교체험프로그램 준비 등 인력보조 농사 보조 및 체험관 보조 인턴기간 3개월 후 계속 고용예정",
@@ -9198,7 +9212,7 @@
    "phone": "신재동 053-719-0347",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-092377&projType=E&instnId=0384083",
    "source": "노인일자리여기",
-   "id": "senior-00657"
+   "id": "senior-00658"
   },
   {
    "title": "- 노인일자리 활성화 및 신규 일자리창출 - 어르신들이 경제 활동을 통한 우울증 감소 및 자신감 회복 - 소득 증대를 통한 경제력 확보 - 어르신들의 근무의욕 고취 인턴채용 후 계속 고용 예정",
@@ -9212,7 +9226,7 @@
    "phone": "성영경 054-461-5522",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-061828&projType=E&instnId=0004248",
    "source": "노인일자리여기",
-   "id": "senior-00658"
+   "id": "senior-00659"
   },
   {
    "title": "- 노인일자리 활성화 및 신규 일자리창출 - 어르신들이 경제 활동을 통한 우울증 감소 및 자신감 회복 - 소득 증대를 통한 경제력 확보 - 어르신들의 근무의욕 고취 인턴채용 후 계속 고용 예정",
@@ -9226,7 +9240,7 @@
    "phone": "김명순 054-977-7842",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-061738&projType=E&instnId=0004248",
    "source": "노인일자리여기",
-   "id": "senior-00659"
+   "id": "senior-00660"
   },
   {
    "title": "60세이상 근로자 적합 직종으로 상용직 신규 채용 인턴 기간 3개월 후 계속 고용 진행 예정",
@@ -9240,7 +9254,7 @@
    "phone": "신재동 053-716-0347",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-096262&projType=E&instnId=0384083",
    "source": "노인일자리여기",
-   "id": "senior-00660"
+   "id": "senior-00661"
   },
   {
    "title": "운수업 인턴 3개월 운영 후 계속고용계획",
@@ -9254,7 +9268,7 @@
    "phone": "안금자 053-742-5066",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-070073&projType=E&instnId=0529083",
    "source": "노인일자리여기",
-   "id": "senior-00661"
+   "id": "senior-00662"
   },
   {
    "title": "만 60세 이상 기업에 인건비를 지원하여 신규 및 계속 고용 유도 인턴 종료 후 정규직 계속 고용",
@@ -9268,7 +9282,7 @@
    "phone": "정경자 010-9936-1623",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-069187&projType=E&instnId=0026083",
    "source": "노인일자리여기",
-   "id": "senior-00662"
+   "id": "senior-00663"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -9282,7 +9296,7 @@
    "phone": "김정옥 010-4847-5349",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-039613&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00663"
+   "id": "senior-00664"
   },
   {
    "title": "공룡나라누룽지",
@@ -9296,7 +9310,7 @@
    "phone": "성은진 055-674-9200",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-010282&projType=B&instnId=1038091",
    "source": "노인일자리여기",
-   "id": "senior-00664"
+   "id": "senior-00665"
   },
   {
    "title": "제조업(코팅진공기계) 일반형 2명",
@@ -9310,7 +9324,7 @@
    "phone": "신미옥 055-902-8988",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-037320&projType=E&instnId=1039095",
    "source": "노인일자리여기",
-   "id": "senior-00665"
+   "id": "senior-00666"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9324,7 +9338,7 @@
    "phone": "김동호 010-4588-8682",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-067529&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00666"
+   "id": "senior-00667"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9338,7 +9352,7 @@
    "phone": "김수호 010-4586-1951",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-050802&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00667"
+   "id": "senior-00668"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9352,7 +9366,7 @@
    "phone": "장유정 010-9253-5334",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-049928&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00668"
+   "id": "senior-00669"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9366,7 +9380,7 @@
    "phone": "주성희 010-9932-2477",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-051061&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00669"
+   "id": "senior-00670"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9380,7 +9394,7 @@
    "phone": "정재율 010-6388-1796",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-049101&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00670"
+   "id": "senior-00671"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9394,7 +9408,7 @@
    "phone": "김효석 010-6533-2790",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-047748&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00671"
+   "id": "senior-00672"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9408,7 +9422,7 @@
    "phone": "박광철 055-329-2624",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-048310&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00672"
+   "id": "senior-00673"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9422,7 +9436,7 @@
    "phone": "백정희 010-6242-9450",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-049493&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00673"
+   "id": "senior-00674"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9436,7 +9450,7 @@
    "phone": "황성효 010-3848-0523",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-051998&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00674"
+   "id": "senior-00675"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9450,7 +9464,7 @@
    "phone": "천영호 010-3689-2718",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-051016&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00675"
+   "id": "senior-00676"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9464,7 +9478,7 @@
    "phone": "이상권 010-8381-5957",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-049617&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00676"
+   "id": "senior-00677"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9478,7 +9492,7 @@
    "phone": "김아름 010-7636-6032",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-050700&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00677"
+   "id": "senior-00678"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9492,7 +9506,7 @@
    "phone": "안성우 010-2926-6307",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-048211&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00678"
+   "id": "senior-00679"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9506,7 +9520,7 @@
    "phone": "차지현 055-321-2199",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-043971&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00679"
+   "id": "senior-00680"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9520,7 +9534,7 @@
    "phone": "최현복 010-7712-0266",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-049903&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00680"
+   "id": "senior-00681"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9534,7 +9548,7 @@
    "phone": "우인식 010-4762-3531",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-049847&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00681"
+   "id": "senior-00682"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9548,7 +9562,7 @@
    "phone": "김영은 010-3879-8261",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-050004&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00682"
+   "id": "senior-00683"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9562,7 +9576,7 @@
    "phone": "한희정 010-4559-8539",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-049665&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00683"
+   "id": "senior-00684"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9576,7 +9590,7 @@
    "phone": "서정숙 010-7128-8824",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-053944&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00684"
+   "id": "senior-00685"
   },
   {
    "title": "만 60세 이상 기업에 인건비를 지원하여 신규 및 계속 고용 유도 인턴 종료 후 정규직 계속 고용",
@@ -9590,7 +9604,7 @@
    "phone": "채무곤 010-2593-8950",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-057079&projType=E&instnId=0026083",
    "source": "노인일자리여기",
-   "id": "senior-00685"
+   "id": "senior-00686"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9604,7 +9618,7 @@
    "phone": "김문영 055-343-5800",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-086683&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00686"
+   "id": "senior-00687"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9618,7 +9632,7 @@
    "phone": "이태권 010-5057-5579",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-050055&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00687"
+   "id": "senior-00688"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9632,7 +9646,7 @@
    "phone": "황인범 010-9026-6491",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-050692&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00688"
+   "id": "senior-00689"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9646,7 +9660,7 @@
    "phone": "이은희 010-3124-7499",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-050779&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00689"
+   "id": "senior-00690"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9660,7 +9674,7 @@
    "phone": "손창규 010-8515-9086",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-067522&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00690"
+   "id": "senior-00691"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9674,7 +9688,7 @@
    "phone": "최정은 010-5198-5004",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-066870&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00691"
+   "id": "senior-00692"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9688,7 +9702,7 @@
    "phone": "조영식 010-2222-6721",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-037743&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00692"
+   "id": "senior-00693"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9702,7 +9716,7 @@
    "phone": "최현복 010-7712-0266",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-049763&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00693"
+   "id": "senior-00694"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9716,7 +9730,7 @@
    "phone": "하병택 010-4585-9905",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-049571&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00694"
+   "id": "senior-00695"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9730,7 +9744,7 @@
    "phone": "김영태 010-2656-0002",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-047695&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00695"
+   "id": "senior-00696"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9744,7 +9758,7 @@
    "phone": "최정희 010-4879-9371",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-062842&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00696"
+   "id": "senior-00697"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9758,7 +9772,7 @@
    "phone": "공경애 055-353-3630",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-050774&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00697"
+   "id": "senior-00698"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9772,7 +9786,7 @@
    "phone": "이주현 010-5134-4734",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-053103&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00698"
+   "id": "senior-00699"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -9786,7 +9800,7 @@
    "phone": "안수정 010-2550-4090",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-043575&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00699"
+   "id": "senior-00700"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -9800,7 +9814,7 @@
    "phone": "장미숙 010-4857-1040",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-035336&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00700"
+   "id": "senior-00701"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -9814,7 +9828,7 @@
    "phone": "이상래 055-855-9876",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-029758&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00701"
+   "id": "senior-00702"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -9828,7 +9842,7 @@
    "phone": "박춘애 010-8813-0363",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-034731&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00702"
+   "id": "senior-00703"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -9842,7 +9856,7 @@
    "phone": "박미정 010-8402-9358",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-035381&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00703"
+   "id": "senior-00704"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -9856,7 +9870,7 @@
    "phone": "황신애 852-7794",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-066592&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00704"
+   "id": "senior-00705"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -9870,7 +9884,7 @@
    "phone": "장명욱 010-7317-7236",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-029784&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00705"
+   "id": "senior-00706"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -9884,7 +9898,7 @@
    "phone": "원진화 010-2420-1205",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-035419&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00706"
+   "id": "senior-00707"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -9898,7 +9912,7 @@
    "phone": "임우분 010-6623-6881",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-039607&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00707"
+   "id": "senior-00708"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -9912,7 +9926,7 @@
    "phone": "임우분 010-3870-6822",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-042001&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00708"
+   "id": "senior-00709"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -9926,7 +9940,7 @@
    "phone": "윤성훈 010-4578-4651",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-034720&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00709"
+   "id": "senior-00710"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 -주요 직무 : 기타 판매 관련 단순 종사원 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월) 예정",
@@ -9940,7 +9954,7 @@
    "phone": "임말순 055-392-5651",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-045974&projType=E&instnId=0006042",
    "source": "노인일자리여기",
-   "id": "senior-00710"
+   "id": "senior-00711"
   },
   {
    "title": "만 60세 이상 기업에 인건비를 지원하여 신규 및 계속 고용 유도 인턴 종료 후 정규직 계속 고용",
@@ -9954,7 +9968,7 @@
    "phone": "김예지 051-647-0919",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-083579&projType=E&instnId=0026083",
    "source": "노인일자리여기",
-   "id": "senior-00711"
+   "id": "senior-00712"
   },
   {
    "title": "자동차 유리 제작 직무교육후 현장배치",
@@ -9968,7 +9982,7 @@
    "phone": "이재현 010-4905-2195",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-067833&projType=E&instnId=0002251",
    "source": "노인일자리여기",
-   "id": "senior-00712"
+   "id": "senior-00713"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -9982,7 +9996,7 @@
    "phone": "진성희 0507-1394-1163",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-034666&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00713"
+   "id": "senior-00714"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -9996,7 +10010,7 @@
    "phone": "이연숙 010-5576-1415",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-039525&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00714"
+   "id": "senior-00715"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10010,7 +10024,7 @@
    "phone": "염혜선 755-5565",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-029677&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00715"
+   "id": "senior-00716"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10024,7 +10038,7 @@
    "phone": "이영우 010-2530-9940",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-034683&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00716"
+   "id": "senior-00717"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10038,7 +10052,7 @@
    "phone": "최은주 010-3579-3708",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-029684&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00717"
+   "id": "senior-00718"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10052,7 +10066,7 @@
    "phone": "이두리 010-3513-6713",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-034357&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00718"
+   "id": "senior-00719"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10066,7 +10080,7 @@
    "phone": "정임순 010-2973-0716",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-037499&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00719"
+   "id": "senior-00720"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10080,7 +10094,7 @@
    "phone": "박진옥 010-5022-5884",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-032292&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00720"
+   "id": "senior-00721"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10094,7 +10108,7 @@
    "phone": "윤영환 010-2105-6713",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-034386&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00721"
+   "id": "senior-00722"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10108,7 +10122,7 @@
    "phone": "김현주 010-2588-6753",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-029787&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00722"
+   "id": "senior-00723"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10122,7 +10136,7 @@
    "phone": "노연숙 055-741-1171",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-049380&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00723"
+   "id": "senior-00724"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10136,7 +10150,7 @@
    "phone": "석영숙 010-5095-5447",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-032969&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00724"
+   "id": "senior-00725"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10150,7 +10164,7 @@
    "phone": "박동순 010-7580-0859",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-032277&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00725"
+   "id": "senior-00726"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10164,7 +10178,7 @@
    "phone": "강경화 010-4200-5199",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-038948&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00726"
+   "id": "senior-00727"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10178,7 +10192,7 @@
    "phone": "신선경 010-2588-9751",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-039536&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00727"
+   "id": "senior-00728"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10192,7 +10206,7 @@
    "phone": "임현선 055-762-3823",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-077796&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00728"
+   "id": "senior-00729"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10206,7 +10220,7 @@
    "phone": "김병현 010-5055-1114",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-029773&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00729"
+   "id": "senior-00730"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10220,7 +10234,7 @@
    "phone": "공현민 010-3470-9667",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-076598&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00730"
+   "id": "senior-00731"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10234,7 +10248,7 @@
    "phone": "강세란 055-755-9005",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-069569&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00731"
+   "id": "senior-00732"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10248,7 +10262,7 @@
    "phone": "김한기 010-6304-5048",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-034650&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00732"
+   "id": "senior-00733"
   },
   {
    "title": "주거 화재안전 예방점검단",
@@ -10262,7 +10276,7 @@
    "phone": "노대근 055-266-5246",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-095556&projType=C&instnId=0000950",
    "source": "노인일자리여기",
-   "id": "senior-00733"
+   "id": "senior-00734"
   },
   {
    "title": "제조업-절삭가공 및 유사처리업 고객사 제품 1:1 매칭 교육",
@@ -10276,7 +10290,7 @@
    "phone": "김미선 010-5501-7975",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-091770&projType=E&instnId=0000548",
    "source": "노인일자리여기",
-   "id": "senior-00734"
+   "id": "senior-00735"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10290,7 +10304,7 @@
    "phone": "조영신 010-4077-8213",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-037459&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00735"
+   "id": "senior-00736"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -10304,7 +10318,7 @@
    "phone": "이미옥 010-6832-7317",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-043766&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00736"
+   "id": "senior-00737"
   },
   {
    "title": "현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용 현장실습 훈련 지원사업(3개월) 단기근로자로 채용 후 계속고용(18개월)예정",
@@ -10318,7 +10332,7 @@
    "phone": "민준기 010-2828-8647",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-046116&projType=E&instnId=0001493",
    "source": "노인일자리여기",
-   "id": "senior-00737"
+   "id": "senior-00738"
   },
   {
    "title": "60세이상자의고용촉진을위해기업에인건비를지원하여신규및계속고용유도 인턴기간 3개월 후, 계속고용 예정",
@@ -10332,7 +10346,7 @@
    "phone": "박도희 010-4484-1603",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-059514&projType=E&instnId=0985083",
    "source": "노인일자리여기",
-   "id": "senior-00738"
+   "id": "senior-00739"
   },
   {
    "title": "하동밤작업장",
@@ -10346,7 +10360,7 @@
    "phone": "김기연 055-884-7077",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-008964&projType=B&instnId=0355083",
    "source": "노인일자리여기",
-   "id": "senior-00739"
+   "id": "senior-00740"
   },
   {
    "title": "시니어의 노하우를 통해 업무의 ？성을 높이고 상호 협력강화 인턴십 기간 중 업무 진행상황을 평가하고 종료시 정규직 채용 전환 적극 검토 예정",
@@ -10360,7 +10374,7 @@
    "phone": "차성태 055-252-9001",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-027981&projType=E&instnId=0004066",
    "source": "노인일자리여기",
-   "id": "senior-00740"
+   "id": "senior-00741"
   },
   {
    "title": "행복한밥상",
@@ -10374,7 +10388,7 @@
    "phone": "안복실 055-583-6674",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-007602&projType=B&instnId=0517083",
    "source": "노인일자리여기",
-   "id": "senior-00741"
+   "id": "senior-00742"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10388,7 +10402,7 @@
    "phone": "장화숙 055-963-2733",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-035991&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00742"
+   "id": "senior-00743"
   },
   {
    "title": "고쳐드림",
@@ -10402,7 +10416,7 @@
    "phone": "천유일 055-963-0990",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-074923&projType=B&instnId=0357083",
    "source": "노인일자리여기",
-   "id": "senior-00743"
+   "id": "senior-00744"
   },
   {
    "title": "60세 이상자에게 일할 기회를 제공 인턴십 후 신규 채용",
@@ -10416,7 +10430,7 @@
    "phone": "오경오 051-931-4477",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-036108&projType=E&instnId=0001442",
    "source": "노인일자리여기",
-   "id": "senior-00744"
+   "id": "senior-00745"
   },
   {
    "title": "현장실습훈련(시니어인턴십)참여 계속고용",
@@ -10430,7 +10444,35 @@
    "phone": "강경의 064-745-3999",
    "url": "https://www.seniorro.or.kr/noin/jobDetail.do?jobId=2026-056237&projType=E&instnId=0000178",
    "source": "노인일자리여기",
-   "id": "senior-00745"
+   "id": "senior-00746"
+  },
+  {
+   "title": "2026년 쿠팡풀필먼트서비스 ★현장물류사원/ 현장관리자(팀캡틴)/ 채용담당자★ 채용설명회 참여자 모집",
+   "org": "중부캠퍼스",
+   "region_sido": "서울특별시",
+   "region_sigungu": "서울 경기 전체",
+   "type": "취업알선형",
+   "start_date": "2026-10-22",
+   "end_date": "2026-11-12",
+   "salary": "",
+   "phone": "02-460-5205",
+   "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2247",
+   "source": "서울50플러스",
+   "id": "senior-00747"
+  },
+  {
+   "title": "(주)풀무원 뮤지엄김치간 체험보조 아르바이트(주말) 모집",
+   "org": "(주)풀무원 뮤지엄김치간",
+   "region_sido": "서울특별시",
+   "region_sigungu": "서울 종로구",
+   "type": "취업알선형",
+   "start_date": "2026-10-20",
+   "end_date": "2026-11-01",
+   "salary": "시급 12,000원",
+   "phone": "02-2088-3796",
+   "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2243",
+   "source": "서울50플러스",
+   "id": "senior-00748"
   },
   {
    "title": "2026년 「(주)비케이알_버거킹 크루」채용설명회(3차) 참여자 모집",
@@ -10444,7 +10486,21 @@
    "phone": "02-460-5205",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2242",
    "source": "서울50플러스",
-   "id": "senior-00746"
+   "id": "senior-00749"
+  },
+  {
+   "title": "[시니어채용] 서울강남시니어클럽 꿈나무교실 시니어파견강사 모집",
+   "org": "월 12회 이상, 주 3회, 2인 1조 활동",
+   "region_sido": "서울특별시",
+   "region_sigungu": "",
+   "type": "취업알선형",
+   "start_date": "2026-10-20",
+   "end_date": "2026-10-30",
+   "salary": "시급 25,000원",
+   "phone": "070-4810-3835",
+   "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2241",
+   "source": "서울50플러스",
+   "id": "senior-00750"
   },
   {
    "title": "2026년 ㈜에이스파트너스서치펌 채용설명회",
@@ -10458,7 +10514,7 @@
    "phone": "02-460-5503",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2240",
    "source": "서울50플러스",
-   "id": "senior-00747"
+   "id": "senior-00751"
   },
   {
    "title": "2026년 유니에스(공항 수하물 조업원) 채용설명회 참여자 모집",
@@ -10472,7 +10528,7 @@
    "phone": "02-460-5307",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2238",
    "source": "서울50플러스",
-   "id": "senior-00748"
+   "id": "senior-00752"
   },
   {
    "title": "2026년 &#39;삼성반도체 평택 건설현장&#39; (주)테에스에스 채용설명회",
@@ -10486,7 +10542,7 @@
    "phone": "02-460-5301",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2237",
    "source": "서울50플러스",
-   "id": "senior-00749"
+   "id": "senior-00753"
   },
   {
    "title": "탐색반 「중장년 호텔리어 직무 탐색」참여자 모집",
@@ -10500,7 +10556,7 @@
    "phone": "02-460-5107",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2236",
    "source": "서울50플러스",
-   "id": "senior-00750"
+   "id": "senior-00754"
   },
   {
    "title": "탐색반 「중장년 공연장 운영서비스 직무 탐색」참여자 모집",
@@ -10514,7 +10570,49 @@
    "phone": "02-460-5107",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2235",
    "source": "서울50플러스",
-   "id": "senior-00751"
+   "id": "senior-00755"
+  },
+  {
+   "title": "사무실 환경미화원 인력모집",
+   "org": "(주)에버영피플",
+   "region_sido": "서울특별시",
+   "region_sigungu": "서울 종로구",
+   "type": "취업알선형",
+   "start_date": "2026-10-19",
+   "end_date": "2026-11-01",
+   "salary": "시급 12,121원",
+   "phone": "02-2138-8381",
+   "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2226",
+   "source": "서울50플러스",
+   "id": "senior-00756"
+  },
+  {
+   "title": "금융기관 데이터 검수인력모집",
+   "org": "(주)에버영피플",
+   "region_sido": "서울특별시",
+   "region_sigungu": "서울 영등포구",
+   "type": "취업알선형",
+   "start_date": "2026-10-19",
+   "end_date": "2026-11-01",
+   "salary": "시급 12,121원",
+   "phone": "02-2138-8381",
+   "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2225",
+   "source": "서울50플러스",
+   "id": "senior-00757"
+  },
+  {
+   "title": "[마포·공덕 / 하루 알바] AI 연구용 영상 데이터 수집 참여자 모집",
+   "org": "주식회사 테라마임",
+   "region_sido": "서울특별시",
+   "region_sigungu": "서울 마포구",
+   "type": "취업알선형",
+   "start_date": "2026-10-20",
+   "end_date": "2026-10-30",
+   "salary": "시급 30,000원",
+   "phone": "010-7320-2442",
+   "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2224",
+   "source": "서울50플러스",
+   "id": "senior-00758"
   },
   {
    "title": "동네 아이 돌보미 선생님 모집 (원하는 구 선택/시간제)",
@@ -10528,7 +10626,7 @@
    "phone": "010-5069-0668",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2214",
    "source": "서울50플러스",
-   "id": "senior-00752"
+   "id": "senior-00759"
   },
   {
    "title": "동네 아이 등하원 도우미 선생님 모집 (원하는 구 선택/시간제)",
@@ -10542,7 +10640,7 @@
    "phone": "010-3112-0668",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2213",
    "source": "서울50플러스",
-   "id": "senior-00753"
+   "id": "senior-00760"
   },
   {
    "title": "카드배송원 모집(강남구, 서초구, 동작구)",
@@ -10556,7 +10654,21 @@
    "phone": "02-547-8866",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2211",
    "source": "서울50플러스",
-   "id": "senior-00754"
+   "id": "senior-00761"
+  },
+  {
+   "title": "회사성장에 도움 주실 영업 파트너를 찾습니다",
+   "org": "주식회사 네츄럴셀",
+   "region_sido": "서울특별시",
+   "region_sigungu": "서울 기타 전체",
+   "type": "취업알선형",
+   "start_date": "2026-10-15",
+   "end_date": "2026-12-31",
+   "salary": "",
+   "phone": "02-3412-1701",
+   "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2210",
+   "source": "서울50플러스",
+   "id": "senior-00762"
   },
   {
    "title": "종로구 가족센터 아이돌봄사 모집 공고",
@@ -10570,7 +10682,7 @@
    "phone": "02-6271-3512",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2205",
    "source": "서울50플러스",
-   "id": "senior-00755"
+   "id": "senior-00763"
   },
   {
    "title": "동네 아이 등하원 선생님 모집 (원하는 구 선택/시간제)",
@@ -10584,7 +10696,7 @@
    "phone": "010-7712-9068",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2204",
    "source": "서울50플러스",
-   "id": "senior-00756"
+   "id": "senior-00764"
   },
   {
    "title": "사단법인 함께웃는세상 주거환경개선 현장직원 모집",
@@ -10598,7 +10710,7 @@
    "phone": "02-1544-8165",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2202",
    "source": "서울50플러스",
-   "id": "senior-00757"
+   "id": "senior-00765"
   },
   {
    "title": "서초택시 [카카오T 블루 택시 기사님 모집 - 정규직 신입/경력]",
@@ -10612,7 +10724,7 @@
    "phone": "010-8759-9991",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2196",
    "source": "서울50플러스",
-   "id": "senior-00758"
+   "id": "senior-00766"
   },
   {
    "title": "속성반 「일반경비원 신임과정(2기)」 참여자 모집 공고",
@@ -10626,7 +10738,7 @@
    "phone": "02-460-5302",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2132",
    "source": "서울50플러스",
-   "id": "senior-00759"
+   "id": "senior-00767"
   },
   {
    "title": "(주)KB골든라이프케어 강동빌리지 요양보호사 채용",
@@ -10640,7 +10752,7 @@
    "phone": "02-427-8009",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2114",
    "source": "서울50플러스",
-   "id": "senior-00760"
+   "id": "senior-00768"
   },
   {
    "title": "[종로구/시간제] 돌봄SOS·안심종로 가사지원 제공인력 모집",
@@ -10654,7 +10766,7 @@
    "phone": "02-899-8127",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2105",
    "source": "서울50플러스",
-   "id": "senior-00761"
+   "id": "senior-00769"
   },
   {
    "title": "스쿨버스 인사 HR 담당자 / 경영지원 담당자",
@@ -10668,7 +10780,7 @@
    "phone": "010-7794-6817",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2097",
    "source": "서울50플러스",
-   "id": "senior-00762"
+   "id": "senior-00770"
   },
   {
    "title": "어린이 통학 차량 운전자/동승보호자 모집",
@@ -10682,7 +10794,7 @@
    "phone": "010-7794-6817",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2096",
    "source": "서울50플러스",
-   "id": "senior-00763"
+   "id": "senior-00771"
   },
   {
    "title": "[현장학습]마케팅 및 홍보 TM 영업 / 고객관리상담 사원모집 주5일근무 (월~금)",
@@ -10696,7 +10808,7 @@
    "phone": "010-5220-1703",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2095",
    "source": "서울50플러스",
-   "id": "senior-00764"
+   "id": "senior-00772"
   },
   {
    "title": "광진구가족센터 아이돌봄사 모집 공고 ",
@@ -10710,7 +10822,7 @@
    "phone": "02-458-0183",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2035",
    "source": "서울50플러스",
-   "id": "senior-00765"
+   "id": "senior-00773"
   },
   {
    "title": "딤섬의 명가 딤딤섬에 함께 일 하실 분을 모집합니다",
@@ -10724,7 +10836,7 @@
    "phone": "010-8025-6712",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1921",
    "source": "서울50플러스",
-   "id": "senior-00766"
+   "id": "senior-00774"
   },
   {
    "title": "외식그룹 엔타스 홀서비스/조리부 직원 채용",
@@ -10738,7 +10850,7 @@
    "phone": "02-337-7758",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1891",
    "source": "서울50플러스",
-   "id": "senior-00767"
+   "id": "senior-00775"
   },
   {
    "title": "[서울/경기] 가정 청소 매니저 대규모 모집 ",
@@ -10752,7 +10864,7 @@
    "phone": "02-2188-6717",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1861",
    "source": "서울50플러스",
-   "id": "senior-00768"
+   "id": "senior-00776"
   },
   {
    "title": "법인택시 기사 모집(삼이택시)",
@@ -10766,7 +10878,7 @@
    "phone": "02-885-7632",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1784",
    "source": "서울50플러스",
-   "id": "senior-00769"
+   "id": "senior-00777"
   },
   {
    "title": "택시 기사 모집",
@@ -10780,7 +10892,7 @@
    "phone": "02-982-9171",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1640",
    "source": "서울50플러스",
-   "id": "senior-00770"
+   "id": "senior-00778"
   },
   {
    "title": "2026 메가 트렌드 파크골프 용품 판매 담당자 모집",
@@ -10794,7 +10906,7 @@
    "phone": "02-8741-7854",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1247",
    "source": "서울50플러스",
-   "id": "senior-00771"
+   "id": "senior-00779"
   },
   {
    "title": "시니어일자리지원센터 구직등록(2026)",
@@ -10808,7 +10920,7 @@
    "phone": "02-460-5050",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1160",
    "source": "서울50플러스",
-   "id": "senior-00772"
+   "id": "senior-00780"
   },
   {
    "title": "[서울/경기/인천] 가사/청소/홈케어 매니저님 모집 | 시급 1.5만 원",
@@ -10822,7 +10934,7 @@
    "phone": "010-9963-6287",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1157",
    "source": "서울50플러스",
-   "id": "senior-00773"
+   "id": "senior-00781"
   },
   {
    "title": "2026 노인일자리 참여자 모집",
@@ -10836,7 +10948,7 @@
    "phone": "02-1566-7390",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1155",
    "source": "서울50플러스",
-   "id": "senior-00774"
+   "id": "senior-00782"
   },
   {
    "title": "[동작구] 노들역 인근 학교 미화원 1명 모집 ",
@@ -10850,7 +10962,7 @@
    "phone": "02-6096-6433",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2212",
    "source": "서울50플러스",
-   "id": "senior-00775"
+   "id": "senior-00783"
   },
   {
    "title": "(양천 신월동) 신월실버요양원 사회복지사 구인",
@@ -10864,7 +10976,7 @@
    "phone": "02-2697-6281",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2198",
    "source": "서울50플러스",
-   "id": "senior-00776"
+   "id": "senior-00784"
   },
   {
    "title": "[강서구]서부 장애인 치과병원",
@@ -10878,7 +10990,7 @@
    "phone": "02-6096-6435",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2192",
    "source": "서울50플러스",
-   "id": "senior-00777"
+   "id": "senior-00785"
   },
   {
    "title": "공영홈쇼핑 2026년 고령자 채용 공고",
@@ -10892,7 +11004,7 @@
    "phone": "02-2006-6184",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2190",
    "source": "서울50플러스",
-   "id": "senior-00778"
+   "id": "senior-00786"
   },
   {
    "title": "(양재/퇴직무역전문인력)KOTRA 의약품 분야 수출전문위원 모집 ",
@@ -10906,7 +11018,7 @@
    "phone": "02-2025-7370",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2185",
    "source": "서울50플러스",
-   "id": "senior-00779"
+   "id": "senior-00787"
   },
   {
    "title": "2026년도 제2차 국가철도공단 신입직원 채용공고",
@@ -10920,7 +11032,7 @@
    "phone": "02-3210-3821",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2150",
    "source": "서울50플러스",
-   "id": "senior-00780"
+   "id": "senior-00788"
   },
   {
    "title": "2026년 하반기 대한무역투자진흥공사 공무직(미화) 채용 공고",
@@ -10934,7 +11046,7 @@
    "phone": "02-3460-7039",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2149",
    "source": "서울50플러스",
-   "id": "senior-00781"
+   "id": "senior-00789"
   },
   {
    "title": "공영홈쇼핑 2026년 고령자 채용 공고",
@@ -10948,7 +11060,7 @@
    "phone": "02-2006-6184",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2144",
    "source": "서울50플러스",
-   "id": "senior-00782"
+   "id": "senior-00790"
   },
   {
    "title": "시니어 일용직(파트타임) 채용공고",
@@ -10962,7 +11074,7 @@
    "phone": "02-848-2902",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2124",
    "source": "서울50플러스",
-   "id": "senior-00783"
+   "id": "senior-00791"
   },
   {
    "title": "광동건강원 주식회사 영업사원 1기 모집",
@@ -10976,7 +11088,7 @@
    "phone": "02-2197-9951",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2119",
    "source": "서울50플러스",
-   "id": "senior-00784"
+   "id": "senior-00792"
   },
   {
    "title": "고객상담원 모집",
@@ -10990,7 +11102,7 @@
    "phone": "02-6078-1709",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2113",
    "source": "서울50플러스",
-   "id": "senior-00785"
+   "id": "senior-00793"
   },
   {
    "title": "광동건강원 주식회사 영업사원 1기 모집",
@@ -11004,7 +11116,7 @@
    "phone": "02-2197-9951",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2110",
    "source": "서울50플러스",
-   "id": "senior-00786"
+   "id": "senior-00794"
   },
   {
    "title": "시니어교육강사파견사업 종이접기 시니어 강사 모집",
@@ -11018,7 +11130,7 @@
    "phone": "02-547-8866",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2109",
    "source": "서울50플러스",
-   "id": "senior-00787"
+   "id": "senior-00795"
   },
   {
    "title": "진로교육 전문위원 초빙 공고(2차)",
@@ -11032,7 +11144,7 @@
    "phone": "",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2108",
    "source": "서울50플러스",
-   "id": "senior-00788"
+   "id": "senior-00796"
   },
   {
    "title": "서울시 미세먼지 불법배출 시민참여감시단(기간제노동자) 채용 공고",
@@ -11046,7 +11158,7 @@
    "phone": "02-6490-5401",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2104",
    "source": "서울50플러스",
-   "id": "senior-00789"
+   "id": "senior-00797"
   },
   {
    "title": "[시니어채용]서울강남시니어클럽 클레이아트 시니어파견강사 모집",
@@ -11060,7 +11172,7 @@
    "phone": "02-547-8866",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2090",
    "source": "서울50플러스",
-   "id": "senior-00790"
+   "id": "senior-00798"
   },
   {
    "title": "귀뚜라미에너지 가산고객센터 도시가스 안전점검원 검침원 모집",
@@ -11074,7 +11186,7 @@
    "phone": "010-6404-2470",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2082",
    "source": "서울50플러스",
-   "id": "senior-00791"
+   "id": "senior-00799"
   },
   {
    "title": "네이버 서비스 모니터링(일 4시간 근무)",
@@ -11088,7 +11200,7 @@
    "phone": "02-579-2389",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2076",
    "source": "서울50플러스",
-   "id": "senior-00792"
+   "id": "senior-00800"
   },
   {
    "title": "운전학원 강사 모집 (청량리역 신규 오픈)",
@@ -11102,7 +11214,7 @@
    "phone": "010-3890-6541",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2069",
    "source": "서울50플러스",
-   "id": "senior-00793"
+   "id": "senior-00801"
   },
   {
    "title": "시니어 방문 학습 매니저",
@@ -11116,7 +11228,7 @@
    "phone": "02-6953-3497",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2059",
    "source": "서울50플러스",
-   "id": "senior-00794"
+   "id": "senior-00802"
   },
   {
    "title": "중장년 직원 모집 / 50~60대  환영",
@@ -11130,7 +11242,7 @@
    "phone": "010-2411-2950",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2058",
    "source": "서울50플러스",
-   "id": "senior-00795"
+   "id": "senior-00803"
   },
   {
    "title": "[크린리더 소속]  아파트 시설 청소 직원구합니다.  (일 3시간/ 주 3회)",
@@ -11144,7 +11256,7 @@
    "phone": "032-715-5521",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2051",
    "source": "서울50플러스",
-   "id": "senior-00796"
+   "id": "senior-00804"
   },
   {
    "title": "마움프린팅 물류·출고 관리 담당자 채용",
@@ -11158,7 +11270,7 @@
    "phone": "02-1670-3751",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2023",
    "source": "서울50플러스",
-   "id": "senior-00797"
+   "id": "senior-00805"
   },
   {
    "title": "[시니어채용] 서울강남시니어클럽 지하철택배 및 카드 배송 시니어 모집",
@@ -11172,7 +11284,7 @@
    "phone": "02-547-8866",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2013",
    "source": "서울50플러스",
-   "id": "senior-00798"
+   "id": "senior-00806"
   },
   {
    "title": "스포츠 장비 세척 함께 하실분 구합니다 ",
@@ -11186,7 +11298,7 @@
    "phone": "010-5589-9847",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2011",
    "source": "서울50플러스",
-   "id": "senior-00799"
+   "id": "senior-00807"
   },
   {
    "title": "[월 237만원] 주급가능 / 모델하우스 미화원 채용",
@@ -11200,7 +11312,7 @@
    "phone": "02-1800-4015",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2006",
    "source": "서울50플러스",
-   "id": "senior-00800"
+   "id": "senior-00808"
   },
   {
    "title": "[시니어채용]서울강남시니어클럽 클레이아트 시니어파견강사 모집",
@@ -11214,7 +11326,7 @@
    "phone": "02-547-8866",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2005",
    "source": "서울50플러스",
-   "id": "senior-00801"
+   "id": "senior-00809"
   },
   {
    "title": "[시니어채용] 서울강남시니어클럽 학습보드게임 시니어파견강사 모집 ",
@@ -11228,7 +11340,7 @@
    "phone": "02-547-8866",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2003",
    "source": "서울50플러스",
-   "id": "senior-00802"
+   "id": "senior-00810"
   },
   {
    "title": "[크린리더 소속]  아파트 시설 청소 인력 구합니다.  (일 3시간/ 주 3회)",
@@ -11242,7 +11354,7 @@
    "phone": "032-715-5521",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2001",
    "source": "서울50플러스",
-   "id": "senior-00803"
+   "id": "senior-00811"
   },
   {
    "title": "조리원 채용",
@@ -11256,7 +11368,7 @@
    "phone": "02-6925-5288",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1931",
    "source": "서울50플러스",
-   "id": "senior-00804"
+   "id": "senior-00812"
   },
   {
    "title": "(긴급)서대문50플러스센터 2026년 서울시 중장년 가치동행일자리사업 전담 매니저(계약직)채용 공고",
@@ -11270,7 +11382,7 @@
    "phone": "070-5220-3872",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1928",
    "source": "서울50플러스",
-   "id": "senior-00805"
+   "id": "senior-00813"
   },
   {
    "title": "[동대문구시설관리공단] 시니어인턴(청소/여자) 공개채용",
@@ -11284,7 +11396,7 @@
    "phone": "02-6929-0391",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1887",
    "source": "서울50플러스",
-   "id": "senior-00806"
+   "id": "senior-00814"
   },
   {
    "title": "[시니어 채용]「해외 고객사 시스템 유지보수」 모집(인턴십 연계)",
@@ -11298,7 +11410,7 @@
    "phone": "02-460-5617",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1809",
    "source": "서울50플러스",
-   "id": "senior-00807"
+   "id": "senior-00815"
   },
   {
    "title": "[육회바른연어] 직영점 정규직 채용 (주부사원)",
@@ -11312,7 +11424,7 @@
    "phone": "010-5441-6942",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1789",
    "source": "서울50플러스",
-   "id": "senior-00808"
+   "id": "senior-00816"
   },
   {
    "title": "데일리샷 전문주류회사 / 물류 시간제 계약직",
@@ -11326,7 +11438,7 @@
    "phone": "02-6013-5511",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1693",
    "source": "서울50플러스",
-   "id": "senior-00809"
+   "id": "senior-00817"
   },
   {
    "title": "경계선지능 청년 취업준비교육 및 일경험사업 운영 매니저 채용(2명)",
@@ -11340,7 +11452,7 @@
    "phone": "070-8805-9053",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1686",
    "source": "서울50플러스",
-   "id": "senior-00810"
+   "id": "senior-00818"
   },
   {
    "title": "데이케어센터 운전기사분 모집합니다.",
@@ -11354,7 +11466,7 @@
    "phone": "010-9518-1816",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1667",
    "source": "서울50플러스",
-   "id": "senior-00811"
+   "id": "senior-00819"
   },
   {
    "title": "[정부인증] 서울형 가사서비스 가사관리사 모집",
@@ -11368,7 +11480,7 @@
    "phone": "02-6404-3331",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1660",
    "source": "서울50플러스",
-   "id": "senior-00812"
+   "id": "senior-00820"
   },
   {
    "title": "[서부]중장년 경력 인재 지원(직무체험형) 참여자 모집_컬처브릿지",
@@ -11382,7 +11494,7 @@
    "phone": "02-2272-8174",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1649",
    "source": "서울50플러스",
-   "id": "senior-00813"
+   "id": "senior-00821"
   },
   {
    "title": "스탭스(주) 인재화연구소 정부지원사업",
@@ -11396,7 +11508,7 @@
    "phone": "02-2178-8038",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1641",
    "source": "서울50플러스",
-   "id": "senior-00814"
+   "id": "senior-00822"
   },
   {
    "title": "경계선지능 청년 미래내일 일경험사업 운영 매니저 채용 (2명)",
@@ -11410,7 +11522,7 @@
    "phone": "070-8805-9053",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1574",
    "source": "서울50플러스",
-   "id": "senior-00815"
+   "id": "senior-00823"
   },
   {
    "title": "쿠팡풀필먼트서비스 물류사원 채용",
@@ -11424,7 +11536,7 @@
    "phone": "010-7364-1399",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1547",
    "source": "서울50플러스",
-   "id": "senior-00816"
+   "id": "senior-00824"
   },
   {
    "title": "업사이클 전문기업 홍보 마케팅 전담 경력직원 채용 (정규직 전환 인턴)",
@@ -11438,7 +11550,7 @@
    "phone": "02-6349-9006",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1540",
    "source": "서울50플러스",
-   "id": "senior-00817"
+   "id": "senior-00825"
   },
   {
    "title": "업사이클 디자이너/ 생산관리  인재 모집사이클 디자이너/ 생산 (정규직 전환 인턴)",
@@ -11452,7 +11564,7 @@
    "phone": "02-6349-9006",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1539",
    "source": "서울50플러스",
-   "id": "senior-00818"
+   "id": "senior-00826"
   },
   {
    "title": "업사이클 기반 ESG 기획팀 모집 (정규직 전환 인턴십)",
@@ -11466,7 +11578,7 @@
    "phone": "02-6349-9006",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1538",
    "source": "서울50플러스",
-   "id": "senior-00819"
+   "id": "senior-00827"
   },
   {
    "title": "터치포굿 도시형 환경교육센터의 인재를 모집니다 (정규직 전환  인턴십)",
@@ -11480,7 +11592,7 @@
    "phone": "02-6349-9006",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1537",
    "source": "서울50플러스",
-   "id": "senior-00820"
+   "id": "senior-00828"
   },
   {
    "title": "간호사(정규직전환계약직) 모집공고(긴급공고)",
@@ -11494,7 +11606,7 @@
    "phone": "02-2695-1620",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1530",
    "source": "서울50플러스",
-   "id": "senior-00821"
+   "id": "senior-00829"
   },
   {
    "title": "청소관리자 채용",
@@ -11508,7 +11620,7 @@
    "phone": "02-714-4234",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1470",
    "source": "서울50플러스",
-   "id": "senior-00822"
+   "id": "senior-00830"
   },
   {
    "title": "2026년도 도우누리복지용구 직원 채용공고",
@@ -11522,7 +11634,7 @@
    "phone": "02-497-8373",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1465",
    "source": "서울50플러스",
-   "id": "senior-00823"
+   "id": "senior-00831"
   },
   {
    "title": "삼성MNS 삼성 복합기 서비스 사원 모집(사무기기 엔지니어, 초보자 가능)",
@@ -11536,7 +11648,7 @@
    "phone": "02-521-5879",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1450",
    "source": "서울50플러스",
-   "id": "senior-00824"
+   "id": "senior-00832"
   },
   {
    "title": "동작50플러스센터 신중년사회공헌활동 지원사업 전담매니저 채용 공고",
@@ -11550,7 +11662,7 @@
    "phone": "02-2169-8705",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1437",
    "source": "서울50플러스",
-   "id": "senior-00825"
+   "id": "senior-00833"
   },
   {
    "title": "택시기사 정규직 모집",
@@ -11564,7 +11676,7 @@
    "phone": "02-303-1130",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1432",
    "source": "서울50플러스",
-   "id": "senior-00826"
+   "id": "senior-00834"
   },
   {
    "title": "씨유삼성리저브점 야간 스텝 구인",
@@ -11578,7 +11690,7 @@
    "phone": "010-9623-5525",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1423",
    "source": "서울50플러스",
-   "id": "senior-00827"
+   "id": "senior-00835"
   },
   {
    "title": "씨유삼성리저브 주말 야간 구인",
@@ -11592,7 +11704,7 @@
    "phone": "010-9623-5525",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1407",
    "source": "서울50플러스",
-   "id": "senior-00828"
+   "id": "senior-00836"
   },
   {
    "title": "캐나다 현지 식품공장 설비 설치 엔지니어 모집(3개월 단기파견)",
@@ -11606,7 +11718,7 @@
    "phone": "02-3412-1701",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1406",
    "source": "서울50플러스",
-   "id": "senior-00829"
+   "id": "senior-00837"
   },
   {
    "title": "﻿‘서울에덴실버타운’에서는 새로운 시작을 함께할  열정적인 요양보호사 선생님을 모십니다.",
@@ -11620,7 +11732,7 @@
    "phone": "02-871-5400",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1396",
    "source": "서울50플러스",
-   "id": "senior-00830"
+   "id": "senior-00838"
   },
   {
    "title": "2026년 자활기업 규모화 및 협업 지원사업 전담 인력 채용",
@@ -11634,7 +11746,7 @@
    "phone": "070-5133-5030",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1377",
    "source": "서울50플러스",
-   "id": "senior-00831"
+   "id": "senior-00839"
   },
   {
    "title": "경영관리 프리랜서 공고(세무행정 경력자 우대)",
@@ -11648,7 +11760,7 @@
    "phone": "02-2248-2396",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1374",
    "source": "서울50플러스",
-   "id": "senior-00832"
+   "id": "senior-00840"
   },
   {
    "title": "VIP 수행기사 모집ㅣ주 5일 스케줄근무",
@@ -11662,7 +11774,7 @@
    "phone": "010-7609-4204",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1363",
    "source": "서울50플러스",
-   "id": "senior-00833"
+   "id": "senior-00841"
   },
   {
    "title": "활동적이신 사회복지사님을 모십니다.",
@@ -11676,7 +11788,7 @@
    "phone": "010-3200-7576",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1344",
    "source": "서울50플러스",
-   "id": "senior-00834"
+   "id": "senior-00842"
   },
   {
    "title": "파트타임 수행기사 모집ㅣ주 1~3일 유연근무",
@@ -11690,7 +11802,7 @@
    "phone": "010-7609-4204",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1338",
    "source": "서울50플러스",
-   "id": "senior-00835"
+   "id": "senior-00843"
   },
   {
    "title": "다니엘의집2호 장애인공동생활가정 사회복지사(사회재활교사) 채용",
@@ -11704,7 +11816,7 @@
    "phone": "010-8424-1379",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1333",
    "source": "서울50플러스",
-   "id": "senior-00836"
+   "id": "senior-00844"
   },
   {
    "title": "(수시모집)구립양천어르신요양센터 요양보호사(정규직전환계약직) 모집공고",
@@ -11718,7 +11830,7 @@
    "phone": "02-2695-1620",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1315",
    "source": "서울50플러스",
-   "id": "senior-00837"
+   "id": "senior-00845"
   },
   {
    "title": "주간요양보호사 모집",
@@ -11732,7 +11844,7 @@
    "phone": "02-2602-9620",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1313",
    "source": "서울50플러스",
-   "id": "senior-00838"
+   "id": "senior-00846"
   },
   {
    "title": "노원구 신규시설 중계어르신센터 복합문화공간 내 중계휴카페 카페매니저 채용 공고",
@@ -11746,7 +11858,7 @@
    "phone": "010-2292-2184",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1292",
    "source": "서울50플러스",
-   "id": "senior-00839"
+   "id": "senior-00847"
   },
   {
    "title": "가사관리사 . 정리수납 모집 [청소]  ",
@@ -11760,7 +11872,7 @@
    "phone": "02-589-0115",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1279",
    "source": "서울50플러스",
-   "id": "senior-00840"
+   "id": "senior-00848"
   },
   {
    "title": "노인일자리 및 사회활동지원사업 담당자모집",
@@ -11774,7 +11886,7 @@
    "phone": "02-2675-3238",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1252",
    "source": "서울50플러스",
-   "id": "senior-00841"
+   "id": "senior-00849"
   },
   {
    "title": "어르신일자리사업 사업담당자(사업담당 1명, 안전전담인력 1명) 채용 공고",
@@ -11788,7 +11900,7 @@
    "phone": "02-2169-8703",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1215",
    "source": "서울50플러스",
-   "id": "senior-00842"
+   "id": "senior-00850"
   },
   {
    "title": "2026년도 상반기 월드프렌즈코리아 NIPA자문단 해외파견사업 32기 시니어 자문단원 모집공고 ",
@@ -11802,7 +11914,7 @@
    "phone": "02-580-0716",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1144",
    "source": "서울50플러스",
-   "id": "senior-00843"
+   "id": "senior-00851"
   },
   {
    "title": "(주)젬브로스 - 출입·안전관리 & 발렛",
@@ -11816,7 +11928,7 @@
    "phone": "010-5376-5727",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1130",
    "source": "서울50플러스",
-   "id": "senior-00844"
+   "id": "senior-00852"
   },
   {
    "title": "동작50플러스센터 직원 채용 공고 - 서울 중장년 가치동행일자리 전담매니저 채용 공고",
@@ -11830,7 +11942,7 @@
    "phone": "02-2169-8705",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1128",
    "source": "서울50플러스",
-   "id": "senior-00845"
+   "id": "senior-00853"
   },
   {
    "title": "[송파구 가든파이브/남.녀] 조출A,B조. 후출A조 청소원",
@@ -11844,7 +11956,7 @@
    "phone": "010-2400-8390",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1123",
    "source": "서울50플러스",
-   "id": "senior-00846"
+   "id": "senior-00854"
   },
   {
    "title": "성동50플러스센터 『2026년 서울 중장년 가치동행일자리사업』  전담 매니저 채용 공고",
@@ -11858,7 +11970,7 @@
    "phone": "070-4132-5764",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1120",
    "source": "서울50플러스",
-   "id": "senior-00847"
+   "id": "senior-00855"
   },
   {
    "title": "성원미디어스쿨 지역아동센터 주방 설거지",
@@ -11872,7 +11984,7 @@
    "phone": "02-858-9919",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1118",
    "source": "서울50플러스",
-   "id": "senior-00848"
+   "id": "senior-00856"
   },
   {
    "title": "2025년 중장년 경력 인재 지원 (직무체험형) 참여자 모집 공고(구 4050인턴십(파트타임) - 동작구형 멘턴 프로그램)(추가모집)",
@@ -11886,7 +11998,7 @@
    "phone": "02-2169-8723",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=863",
    "source": "서울50플러스",
-   "id": "senior-00849"
+   "id": "senior-00857"
   },
   {
    "title": "서울시니어일자리지원센터 구직서비스 등록",
@@ -11900,7 +12012,7 @@
    "phone": "02-460-5600",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=657",
    "source": "서울50플러스",
-   "id": "senior-00850"
+   "id": "senior-00858"
   },
   {
    "title": "4050인턴십(풀타임) 「(주)비지팅엔젤스코리아」홍보마케팅 및 노인요양 사회복지사 모집",
@@ -11914,7 +12026,7 @@
    "phone": "02-460-5109",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=653",
    "source": "서울50플러스",
-   "id": "senior-00851"
+   "id": "senior-00859"
   },
   {
    "title": "4050인턴십(풀타임) 「태진마을버스 주식회사」 마을버스 운전기사(영등포) 모집(재공고)",
@@ -11928,7 +12040,7 @@
    "phone": "02-460-5304",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=468",
    "source": "서울50플러스",
-   "id": "senior-00852"
+   "id": "senior-00860"
   },
   {
    "title": "2023 기업연계 [돌봄교사 양성사업] 참여자 모집",
@@ -11942,7 +12054,7 @@
    "phone": "02-460-5408",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=279",
    "source": "서울50플러스",
-   "id": "senior-00853"
+   "id": "senior-00861"
   },
   {
    "title": "[인천,부천센터] 쿠팡풀필먼트서비스 3차 채용설명회 참여자 모집",
@@ -11956,7 +12068,7 @@
    "phone": "02-460-5111",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=278",
    "source": "서울50플러스",
-   "id": "senior-00854"
+   "id": "senior-00862"
   },
   {
    "title": "[고양센터] 쿠팡풀필먼트서비스 2차 채용설명회 참여자 모집",
@@ -11970,7 +12082,7 @@
    "phone": "02-460-5111",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=277",
    "source": "서울50플러스",
-   "id": "senior-00855"
+   "id": "senior-00863"
   },
   {
    "title": "2022년 50+자원봉사단 지역생태보호단 자원봉사자 모집",
@@ -11984,7 +12096,7 @@
    "phone": "02-460-5111",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=178",
    "source": "서울50플러스",
-   "id": "senior-00856"
+   "id": "senior-00864"
   },
   {
    "title": "째깍악어 돌봄전문가 추가모집_50+적합일자리",
@@ -11998,7 +12110,7 @@
    "phone": "02-460-5408",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=173",
    "source": "서울50플러스",
-   "id": "senior-00857"
+   "id": "senior-00865"
   },
   {
    "title": "2022년50+자원봉사단 &#39;청년1인가구 고민 편지상담’",
@@ -12012,7 +12124,7 @@
    "phone": "02-460-5202",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=168",
    "source": "서울50플러스",
-   "id": "senior-00858"
+   "id": "senior-00866"
   },
   {
    "title": "2022년 50+자원봉사단 자전거정비단 참여자 모집",
@@ -12026,7 +12138,7 @@
    "phone": "02-460-5111",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=149",
    "source": "서울50플러스",
-   "id": "senior-00859"
+   "id": "senior-00867"
   },
   {
    "title": "2022년 50+자원봉사단 &lt;지역생태보호단&gt; 참여자 모집 ",
@@ -12040,7 +12152,7 @@
    "phone": "02-460-5111",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=144",
    "source": "서울50플러스",
-   "id": "senior-00860"
+   "id": "senior-00868"
   },
   {
    "title": "2022년 50+자원봉사단 &lt;목공재능나눔단&gt; 참여자 모집",
@@ -12054,7 +12166,7 @@
    "phone": "02-460-5203",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=140",
    "source": "서울50플러스",
-   "id": "senior-00861"
+   "id": "senior-00869"
   },
   {
    "title": "2022년 50+자원봉사단 「느린학습청소년지원단」참여자 모집",
@@ -12068,7 +12180,7 @@
    "phone": "02-460-5111",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=126",
    "source": "서울50플러스",
-   "id": "senior-00862"
+   "id": "senior-00870"
   },
   {
    "title": "2022년 50+자원봉사단 「치매예방교육강사」참여자 모집",
@@ -12082,7 +12194,7 @@
    "phone": "02-460-5206",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=121",
    "source": "서울50플러스",
-   "id": "senior-00863"
+   "id": "senior-00871"
   },
   {
    "title": "2022년50+자원봉사단&#39;소상공인사진홍보지원단&#39;",
@@ -12096,7 +12208,7 @@
    "phone": "02-460-5202",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=120",
    "source": "서울50플러스",
-   "id": "senior-00864"
+   "id": "senior-00872"
   },
   {
    "title": "2022년50+자원봉사단 &#39;소상공인쇼핑라이브지원단&#39;",
@@ -12110,7 +12222,7 @@
    "phone": "02-460-5202",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=119",
    "source": "서울50플러스",
-   "id": "senior-00865"
+   "id": "senior-00873"
   },
   {
    "title": "2022년 50+자원봉사단 「선배시민멘토단」 참여자 모집 ",
@@ -12124,7 +12236,7 @@
    "phone": "02-460-5111",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=116",
    "source": "서울50플러스",
-   "id": "senior-00866"
+   "id": "senior-00874"
   },
   {
    "title": "2022년 50+자원봉사단 &#39;발도르프놀이지원단&#39;",
@@ -12138,7 +12250,7 @@
    "phone": "02-460-5202",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=114",
    "source": "서울50플러스",
-   "id": "senior-00867"
+   "id": "senior-00875"
   },
   {
    "title": "[5월] 서울형전직지원서비스 신청",
@@ -12152,7 +12264,7 @@
    "phone": "02-460-5207",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=108",
    "source": "서울50플러스",
-   "id": "senior-00868"
+   "id": "senior-00876"
   },
   {
    "title": "50+농어촌워킹홀리데이 in 전북",
@@ -12166,7 +12278,7 @@
    "phone": "02-460-5271",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=89",
    "source": "서울50플러스",
-   "id": "senior-00869"
+   "id": "senior-00877"
   },
   {
    "title": "[4월] 전직지원프로그램 신청",
@@ -12180,7 +12292,7 @@
    "phone": "02-460-5274",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=83",
    "source": "서울50플러스",
-   "id": "senior-00870"
+   "id": "senior-00878"
   },
   {
    "title": "시니어크리에이티브마케터 참여자 모집",
@@ -12194,77 +12306,35 @@
    "phone": "02-460-5275",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=81",
    "source": "서울50플러스",
-   "id": "senior-00871"
+   "id": "senior-00879"
   },
   {
-   "title": "(주)풀무원 뮤지엄김치간 체험보조 아르바이트(주말) 모집",
-   "org": "(주)풀무원 뮤지엄김치간",
-   "region_sido": "서울특별시",
-   "region_sigungu": "서울 종로구",
-   "type": "기타",
-   "start_date": "2026-10-20",
-   "end_date": "2026-11-01",
-   "salary": "시급 12,000원",
-   "phone": "02-2088-3796",
-   "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2243",
-   "source": "서울50플러스",
-   "id": "senior-00872"
-  },
-  {
-   "title": "[시니어채용] 서울강남시니어클럽 꿈나무교실 시니어파견강사 모집",
-   "org": "월 12회 이상, 주 3회, 2인 1조 활동",
+   "title": "산후관리사 채용공고",
+   "org": "이솜케어",
    "region_sido": "서울특별시",
    "region_sigungu": "",
    "type": "기타",
-   "start_date": "2026-10-20",
-   "end_date": "2026-10-30",
-   "salary": "시급 25,000원",
-   "phone": "070-4810-3835",
-   "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2241",
+   "start_date": "2026-10-22",
+   "end_date": "2026-11-22",
+   "salary": "시급 13,700원",
+   "phone": "070-8840-2300",
+   "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2249",
    "source": "서울50플러스",
-   "id": "senior-00873"
+   "id": "senior-00880"
   },
   {
-   "title": "사무실 환경미화원 인력모집",
-   "org": "(주)에버영피플",
+   "title": "[강소기업] B2B 영업 담당자 모집",
+   "org": "주식회사 신성씨앤에스",
    "region_sido": "서울특별시",
-   "region_sigungu": "서울 종로구",
+   "region_sigungu": "서울 금천구",
    "type": "기타",
-   "start_date": "2026-10-19",
-   "end_date": "2026-11-01",
-   "salary": "시급 12,121원",
-   "phone": "02-2138-8381",
-   "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2226",
+   "start_date": "2026-10-22",
+   "end_date": "2026-10-28",
+   "salary": "40000000",
+   "phone": "010-2440-2621",
+   "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2248",
    "source": "서울50플러스",
-   "id": "senior-00874"
-  },
-  {
-   "title": "금융기관 데이터 검수인력모집",
-   "org": "(주)에버영피플",
-   "region_sido": "서울특별시",
-   "region_sigungu": "서울 영등포구",
-   "type": "기타",
-   "start_date": "2026-10-19",
-   "end_date": "2026-11-01",
-   "salary": "시급 12,121원",
-   "phone": "02-2138-8381",
-   "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2225",
-   "source": "서울50플러스",
-   "id": "senior-00875"
-  },
-  {
-   "title": "[마포·공덕 / 하루 알바] AI 연구용 영상 데이터 수집 참여자 모집",
-   "org": "주식회사 테라마임",
-   "region_sido": "서울특별시",
-   "region_sigungu": "서울 마포구",
-   "type": "기타",
-   "start_date": "2026-10-20",
-   "end_date": "2026-10-30",
-   "salary": "시급 30,000원",
-   "phone": "010-7320-2442",
-   "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2224",
-   "source": "서울50플러스",
-   "id": "senior-00876"
+   "id": "senior-00881"
   }
  ]
 }
