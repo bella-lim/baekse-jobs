@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-08",
- "count": 861,
+ "updated_at": "2026-11-09",
+ "count": 863,
  "jobs": [
   {
    "title": "우리동네어린이놀이터안전지킴이",
@@ -10630,14 +10630,14 @@
   },
   {
    "title": "[송파구] 덕수고등학교 미화",
-   "org": "",
-   "region_sido": "",
-   "region_sigungu": "",
+   "org": "(주)케이디텍",
+   "region_sido": "서울특별시",
+   "region_sigungu": "서울 서초구",
    "type": "취업알선형",
    "start_date": "2026-10-27",
    "end_date": "",
-   "salary": "",
-   "phone": "",
+   "salary": "시급 12,304원",
+   "phone": "02-6096-6435",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2279",
    "source": "서울50플러스",
    "id": "senior-00760"
@@ -10966,14 +10966,14 @@
   },
   {
    "title": "네이버 서비스 모니터링(일 4시간 근무)",
-   "org": "",
-   "region_sido": "",
-   "region_sigungu": "",
+   "org": "(주)에버영코리아",
+   "region_sido": "서울특별시",
+   "region_sigungu": "서울 종로구",
    "type": "취업알선형",
    "start_date": "2026-09-01",
    "end_date": "",
    "salary": "월급",
-   "phone": "",
+   "phone": "02-579-2389",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2076",
    "source": "서울50플러스",
    "id": "senior-00784"
@@ -11008,14 +11008,14 @@
   },
   {
    "title": "마움프린팅 물류·출고 관리 담당자 채용",
-   "org": "주식회사 마움프린팅",
-   "region_sido": "서울특별시",
+   "org": "",
+   "region_sido": "",
    "region_sigungu": "",
    "type": "취업알선형",
    "start_date": "2026-08-19",
    "end_date": "",
    "salary": "250만원",
-   "phone": "02-1670-3751",
+   "phone": "",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2023",
    "source": "서울50플러스",
    "id": "senior-00787"
@@ -11036,14 +11036,14 @@
   },
   {
    "title": "스포츠 장비 세척 함께 하실분 구합니다 ",
-   "org": "",
-   "region_sido": "",
-   "region_sigungu": "",
+   "org": "스포클리닉",
+   "region_sido": "서울특별시",
+   "region_sigungu": "서울 강남구",
    "type": "취업알선형",
    "start_date": "2026-08-10",
    "end_date": "",
-   "salary": "",
-   "phone": "",
+   "salary": "시급 10,320원",
+   "phone": "010-5589-9847",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2011",
    "source": "서울50플러스",
    "id": "senior-00789"
@@ -11498,14 +11498,14 @@
   },
   {
    "title": "경영관리 프리랜서 공고(세무행정 경력자 우대)",
-   "org": "사단법인 북한연구소",
-   "region_sido": "서울특별시",
-   "region_sigungu": "서울 동대문구",
+   "org": "",
+   "region_sido": "",
+   "region_sigungu": "",
    "type": "취업알선형",
    "start_date": "2026-04-06",
    "end_date": "",
-   "salary": "시급 13,000원",
-   "phone": "02-2248-2396",
+   "salary": "",
+   "phone": "",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=1374",
    "source": "서울50플러스",
    "id": "senior-00822"
@@ -11749,6 +11749,20 @@
    "id": "senior-00839"
   },
   {
+   "title": "B2B 아웃소싱 사업개발 및 영업",
+   "org": "(주)에버영피플",
+   "region_sido": "서울특별시",
+   "region_sigungu": "서울 송파구",
+   "type": "취업알선형",
+   "start_date": "2026-11-09",
+   "end_date": "2026-11-22",
+   "salary": "150만원 이상",
+   "phone": "02-2138-8381",
+   "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2300",
+   "source": "서울50플러스",
+   "id": "senior-00840"
+  },
+  {
    "title": "서울시니어일자리지원센터 구직서비스 등록",
    "org": "기타",
    "region_sido": "",
@@ -11760,7 +11774,7 @@
    "phone": "02-460-5600",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=657",
    "source": "서울50플러스",
-   "id": "senior-00840"
+   "id": "senior-00841"
   },
   {
    "title": "4050인턴십(풀타임) 「(주)비지팅엔젤스코리아」홍보마케팅 및 노인요양 사회복지사 모집",
@@ -11774,7 +11788,7 @@
    "phone": "02-460-5109",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=653",
    "source": "서울50플러스",
-   "id": "senior-00841"
+   "id": "senior-00842"
   },
   {
    "title": "4050인턴십(풀타임) 「태진마을버스 주식회사」 마을버스 운전기사(영등포) 모집(재공고)",
@@ -11788,7 +11802,7 @@
    "phone": "02-460-5304",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=468",
    "source": "서울50플러스",
-   "id": "senior-00842"
+   "id": "senior-00843"
   },
   {
    "title": "2023 기업연계 [돌봄교사 양성사업] 참여자 모집",
@@ -11802,7 +11816,7 @@
    "phone": "02-460-5408",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=279",
    "source": "서울50플러스",
-   "id": "senior-00843"
+   "id": "senior-00844"
   },
   {
    "title": "[인천,부천센터] 쿠팡풀필먼트서비스 3차 채용설명회 참여자 모집",
@@ -11816,7 +11830,7 @@
    "phone": "02-460-5111",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=278",
    "source": "서울50플러스",
-   "id": "senior-00844"
+   "id": "senior-00845"
   },
   {
    "title": "[고양센터] 쿠팡풀필먼트서비스 2차 채용설명회 참여자 모집",
@@ -11830,7 +11844,7 @@
    "phone": "02-460-5111",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=277",
    "source": "서울50플러스",
-   "id": "senior-00845"
+   "id": "senior-00846"
   },
   {
    "title": "2022년 50+자원봉사단 지역생태보호단 자원봉사자 모집",
@@ -11844,7 +11858,7 @@
    "phone": "02-460-5111",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=178",
    "source": "서울50플러스",
-   "id": "senior-00846"
+   "id": "senior-00847"
   },
   {
    "title": "째깍악어 돌봄전문가 추가모집_50+적합일자리",
@@ -11858,7 +11872,7 @@
    "phone": "02-460-5408",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=173",
    "source": "서울50플러스",
-   "id": "senior-00847"
+   "id": "senior-00848"
   },
   {
    "title": "2022년50+자원봉사단 &#39;청년1인가구 고민 편지상담’",
@@ -11872,7 +11886,7 @@
    "phone": "02-460-5202",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=168",
    "source": "서울50플러스",
-   "id": "senior-00848"
+   "id": "senior-00849"
   },
   {
    "title": "2022년 50+자원봉사단 자전거정비단 참여자 모집",
@@ -11886,7 +11900,7 @@
    "phone": "02-460-5111",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=149",
    "source": "서울50플러스",
-   "id": "senior-00849"
+   "id": "senior-00850"
   },
   {
    "title": "2022년 50+자원봉사단 &lt;지역생태보호단&gt; 참여자 모집 ",
@@ -11900,7 +11914,7 @@
    "phone": "02-460-5111",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=144",
    "source": "서울50플러스",
-   "id": "senior-00850"
+   "id": "senior-00851"
   },
   {
    "title": "2022년 50+자원봉사단 &lt;목공재능나눔단&gt; 참여자 모집",
@@ -11914,7 +11928,7 @@
    "phone": "02-460-5203",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=140",
    "source": "서울50플러스",
-   "id": "senior-00851"
+   "id": "senior-00852"
   },
   {
    "title": "2022년 50+자원봉사단 「느린학습청소년지원단」참여자 모집",
@@ -11928,7 +11942,7 @@
    "phone": "02-460-5111",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=126",
    "source": "서울50플러스",
-   "id": "senior-00852"
+   "id": "senior-00853"
   },
   {
    "title": "2022년 50+자원봉사단 「치매예방교육강사」참여자 모집",
@@ -11942,7 +11956,7 @@
    "phone": "02-460-5206",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=121",
    "source": "서울50플러스",
-   "id": "senior-00853"
+   "id": "senior-00854"
   },
   {
    "title": "2022년50+자원봉사단&#39;소상공인사진홍보지원단&#39;",
@@ -11956,7 +11970,7 @@
    "phone": "02-460-5202",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=120",
    "source": "서울50플러스",
-   "id": "senior-00854"
+   "id": "senior-00855"
   },
   {
    "title": "2022년50+자원봉사단 &#39;소상공인쇼핑라이브지원단&#39;",
@@ -11970,7 +11984,7 @@
    "phone": "02-460-5202",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=119",
    "source": "서울50플러스",
-   "id": "senior-00855"
+   "id": "senior-00856"
   },
   {
    "title": "2022년 50+자원봉사단 「선배시민멘토단」 참여자 모집 ",
@@ -11984,7 +11998,7 @@
    "phone": "02-460-5111",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=116",
    "source": "서울50플러스",
-   "id": "senior-00856"
+   "id": "senior-00857"
   },
   {
    "title": "2022년 50+자원봉사단 &#39;발도르프놀이지원단&#39;",
@@ -11998,7 +12012,7 @@
    "phone": "02-460-5202",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=114",
    "source": "서울50플러스",
-   "id": "senior-00857"
+   "id": "senior-00858"
   },
   {
    "title": "[5월] 서울형전직지원서비스 신청",
@@ -12012,7 +12026,7 @@
    "phone": "02-460-5207",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=108",
    "source": "서울50플러스",
-   "id": "senior-00858"
+   "id": "senior-00859"
   },
   {
    "title": "50+농어촌워킹홀리데이 in 전북",
@@ -12026,7 +12040,7 @@
    "phone": "02-460-5271",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=89",
    "source": "서울50플러스",
-   "id": "senior-00859"
+   "id": "senior-00860"
   },
   {
    "title": "[4월] 전직지원프로그램 신청",
@@ -12040,7 +12054,7 @@
    "phone": "02-460-5274",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=83",
    "source": "서울50플러스",
-   "id": "senior-00860"
+   "id": "senior-00861"
   },
   {
    "title": "시니어크리에이티브마케터 참여자 모집",
@@ -12054,7 +12068,21 @@
    "phone": "02-460-5275",
    "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=81",
    "source": "서울50플러스",
-   "id": "senior-00861"
+   "id": "senior-00862"
+  },
+  {
+   "title": "[로백] 해외 기업 한국 시장 진출 지원 시니어 전문가 모집 (제조·유통·B2B 분야)",
+   "org": "로백 (ROVEK)",
+   "region_sido": "서울특별시",
+   "region_sigungu": "기타 전체",
+   "type": "기타",
+   "start_date": "2026-11-09",
+   "end_date": "2026-11-17",
+   "salary": "",
+   "phone": "010-9260-1782",
+   "url": "https://www.50plus.or.kr/in_appView.do?ANN_NO=2296",
+   "source": "서울50플러스",
+   "id": "senior-00863"
   }
  ]
 }
